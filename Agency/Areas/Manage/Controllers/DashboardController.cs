@@ -1,10 +1,13 @@
 ﻿using Agency.Models;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
+using System.Data;
 
 namespace Agency.Areas.Manage.Controllers
 {
     [Area("Manage")]
+    [Authorize(Roles = "SuperAdmin,Admin")]
     public class DashboardController : Controller
     {
         private readonly UserManager<AppUser> _userManager;

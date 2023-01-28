@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "zaxSG4/ZvT/xZUH/sF1S44TZ5/kvHeeqRfV/Acv3OVI=",
+  "Hash": "C5hAhHqpy+vQKSbwthJvOX/6AZm8O2e6Jf4CnvlH2Qw=",
   "Source": "Agency",
   "BasePath": "_content/Agency",
   "Mode": "Default",
@@ -3383,6 +3383,23 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
+      "Identity": "C:\\Users\\Elvin Qulizada\\source\\repos\\Agency\\Agency\\wwwroot\\uploads\\portfolio\\2e61a3ac-86e5-4ab2-bbff-3ce8a272e3abtreehouse-preview.jpg",
+      "SourceId": "Agency",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Elvin Qulizada\\source\\repos\\Agency\\Agency\\wwwroot\\",
+      "BasePath": "_content/Agency",
+      "RelativePath": "uploads/portfolio/2e61a3ac-86e5-4ab2-bbff-3ce8a272e3abtreehouse-preview.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\portfolio\\2e61a3ac-86e5-4ab2-bbff-3ce8a272e3abtreehouse-preview.jpg"
+    },
+    {
       "Identity": "C:\\Users\\Elvin Qulizada\\source\\repos\\Agency\\Agency\\wwwroot\\uploads\\portfolio\\5926260f-afb4-4981-844a-04ba8331c4f7roundicons-free.jpg",
       "SourceId": "Agency",
       "SourceType": "Discovered",
@@ -3398,6 +3415,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\uploads\\portfolio\\5926260f-afb4-4981-844a-04ba8331c4f7roundicons-free.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Elvin Qulizada\\source\\repos\\Agency\\Agency\\wwwroot\\uploads\\portfolio\\bab35fce-a745-4b69-a633-9fd8c266256eescape.jpg",
+      "SourceId": "Agency",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Elvin Qulizada\\source\\repos\\Agency\\Agency\\wwwroot\\",
+      "BasePath": "_content/Agency",
+      "RelativePath": "uploads/portfolio/bab35fce-a745-4b69-a633-9fd8c266256eescape.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\portfolio\\bab35fce-a745-4b69-a633-9fd8c266256eescape.jpg"
     }
   ]
 }

@@ -789,8 +789,16 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\Elvin Qulizada\\source\\repos\\Agency\\Agency\\wwwroot\\uploads\\portfolio\\2e61a3ac-86e5-4ab2-bbff-3ce8a272e3abtreehouse-preview.jpg",
+      "PackagePath": "staticwebassets\\uploads\\portfolio\\2e61a3ac-86e5-4ab2-bbff-3ce8a272e3abtreehouse-preview.jpg"
+    },
+    {
       "Id": "C:\\Users\\Elvin Qulizada\\source\\repos\\Agency\\Agency\\wwwroot\\uploads\\portfolio\\5926260f-afb4-4981-844a-04ba8331c4f7roundicons-free.jpg",
       "PackagePath": "staticwebassets\\uploads\\portfolio\\5926260f-afb4-4981-844a-04ba8331c4f7roundicons-free.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Elvin Qulizada\\source\\repos\\Agency\\Agency\\wwwroot\\uploads\\portfolio\\bab35fce-a745-4b69-a633-9fd8c266256eescape.jpg",
+      "PackagePath": "staticwebassets\\uploads\\portfolio\\bab35fce-a745-4b69-a633-9fd8c266256eescape.jpg"
     },
     {
       "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Agency.Microsoft.AspNetCore.StaticWebAssets.props",

@@ -6,11 +6,11 @@ namespace Agency.Helpers
     {
         public PaginatedList(List<T> list,int count, int pageNumber,int pageSize)
         {
-            this.AddRange(list);
             TotalCount= count;
             PageSize = pageSize;
             CurrentPage= pageNumber;
             TotalPageCount= (int)Math.Ceiling((double)count/pageSize);
+            this.AddRange(list);
         }
         public int TotalCount { get; set; }
         public int TotalPageCount { get; set; }

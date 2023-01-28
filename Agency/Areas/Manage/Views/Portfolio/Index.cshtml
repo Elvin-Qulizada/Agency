@@ -1,6 +1,6 @@
-﻿@model List<Portfolio>
+﻿@model PaginatedList<Portfolio>
 @{
-    int counter = 0;
+    int counter = (Model.CurrentPage - 1) * Model.PageSize;
 }
 <div class="container">
     <div class="container d-flex justify-content-around align-items-center">
@@ -24,7 +24,7 @@
                 counter++;
                 <tr>
                     <th scope="row">@counter</th>
-                    <td><img src="~/uploads/portfolio/@portfolio.ImageUrl" style="width:150px;border-radius:50%;object-fit:contain"/></td>
+                    <td><img src="~/uploads/portfolio/@portfolio.ImageUrl" style="width:150px;border-radius:50%;object-fit:contain" /></td>
                     <td>@portfolio.Title</td>
                     <td>@portfolio.Category.Name</td>
                     <td>@portfolio.Description</td>
@@ -36,4 +36,28 @@
             }
         </tbody>
     </table>
+    <div>
+        <form method="get">
+            <nav aria-label="Page navigation example">
+                <ul class="pagination justify-content-center">
+                    @if (Model.HasPrevious)
+                    {
+                        <li class="page-item">
+                            <a class="page-link" asp-action="index" asp-route-page="@(Model.CurrentPage-1)" tabindex="-1">Previous</a>
+                        </li>
+                    }
+                    @for (int i = 1; i < Model.TotalCount; i++)
+                    {
+                        <li class="page-item @(Model.CurrentPage==i?"active":"")"><a class="page-link" asp-action="index" asp-route-page="@i">@i</a></li>
+                    }
+                    @if (Model.HasNext)
+                    {
+                        <li class="page-item">
+                            <a class="page-link" asp-action="index" asp-route-page="@(Model.CurrentPage+1)">Next</a>
+                        </li>
+                    }
+                </ul>
+            </nav>
+        </form>
+    </div>
 </div>

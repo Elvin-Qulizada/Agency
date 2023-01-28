@@ -10,5 +10,6 @@ namespace Agency.DAL
         public DbSet<Portfolio> Portfolios { get; set; }
         public DbSet<Category> Categories { get; set; }
         public DbSet<AppUser> Users { get; set; }
+        public DbSet<Setting> Settings { get; set; }
     }
 }

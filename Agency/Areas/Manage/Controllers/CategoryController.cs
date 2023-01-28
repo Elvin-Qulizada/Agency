@@ -1,10 +1,13 @@
 ﻿using Agency.DAL;
+using Agency.Helpers;
 using Agency.Models;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace Agency.Areas.Manage.Controllers
 {
     [Area("Manage")]
+    [Authorize(Roles ="SuperAdmin,Admin")]
     public class CategoryController : Controller
     {
         private readonly AppDbContext _context;
@@ -13,9 +16,11 @@ namespace Agency.Areas.Manage.Controllers
         {
             _context = context;
         }
-        public IActionResult Index()
+        public IActionResult Index(int page=1)
         {
-            return View(_context.Categories.ToList());
+            var query = _context.Categories.AsQueryable();
+            var items = PaginatedList<Category>.Create(query, page, 2);
+            return View(items);
         }
         public IActionResult Create()
         {

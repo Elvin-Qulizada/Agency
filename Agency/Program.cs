@@ -1,5 +1,7 @@
+using Agency.Areas.Manage.Services;
 using Agency.DAL;
 using Agency.Models;
+using Agency.Services;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 
@@ -25,6 +27,8 @@ namespace Agency
             {
                 opt.UseSqlServer(builder.Configuration.GetConnectionString("Default"));
             });
+            builder.Services.AddScoped<AdminLayoutService>();
+            builder.Services.AddScoped<HomeLayoutService>();
             var app = builder.Build();
 
             // Configure the HTTP request pipeline.
@@ -39,7 +43,7 @@ namespace Agency
             app.UseStaticFiles();
 
             app.UseRouting();
-
+            app.UseAuthentication();
             app.UseAuthorization();
             app.MapControllerRoute(
             name: "areas",
