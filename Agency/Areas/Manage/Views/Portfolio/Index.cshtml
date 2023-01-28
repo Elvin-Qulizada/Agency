@@ -2,6 +2,7 @@
 @{
     int counter = (Model.CurrentPage - 1) * Model.PageSize;
 }
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/limonte-sweetalert2/11.7.1/sweetalert2.min.css" integrity="sha512-NvuRGlPf6cHpxQqBGnPe7fPoACpyrjhlSNeXVUY7BZAj1nNhuNpRBq3osC4yr2vswUEuHq2HtCsY2vfLNCndYA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 <div class="container">
     <div class="container d-flex justify-content-around align-items-center">
         <h1>Portfolio</h1>
@@ -30,7 +31,7 @@
                     <td>@portfolio.Description</td>
                     <td>
                         <a asp-action="update" asp-controller="portfolio" asp-route-id="@portfolio.Id" class="btn btn-primary">Update</a>
-                        <a asp-action="delete" asp-controller="portfolio" asp-route-id="@portfolio.Id" class="btn btn-danger">Delete</a>
+                        <a asp-action="delete" asp-controller="portfolio" asp-route-id="@portfolio.Id" class="btn btn-danger delete-button">Delete</a>
                     </td>
                 </tr>
             }
@@ -38,26 +39,26 @@
     </table>
     <div>
         <form method="get">
-            <nav aria-label="Page navigation example">
-                <ul class="pagination justify-content-center">
-                    @if (Model.HasPrevious)
-                    {
-                        <li class="page-item">
-                            <a class="page-link" asp-action="index" asp-route-page="@(Model.CurrentPage-1)" tabindex="-1">Previous</a>
-                        </li>
-                    }
-                    @for (int i = 1; i < Model.TotalCount; i++)
-                    {
-                        <li class="page-item @(Model.CurrentPage==i?"active":"")"><a class="page-link" asp-action="index" asp-route-page="@i">@i</a></li>
-                    }
-                    @if (Model.HasNext)
-                    {
-                        <li class="page-item">
-                            <a class="page-link" asp-action="index" asp-route-page="@(Model.CurrentPage+1)">Next</a>
-                        </li>
-                    }
-                </ul>
-            </nav>
-        </form>
+        <nav aria-label="Page navigation example">
+            <ul class="pagination justify-content-center">
+                @if(Model.HasPrevious){
+                    <li class="page-item">
+                    <a class="page-link" asp-action="index" asp-route-page="@(Model.CurrentPage-1)" tabindex="-1">Previous</a>
+                </li>
+                }
+                @for (int i = 1; i <= Model.TotalPageCount; i++)
+                {
+                    <li class="page-item @(Model.CurrentPage == i ? "active" : "")"><a class="page-link" asp-action="index" asp-route-page="@i">@i</a></li>
+                }
+               @if(Model.HasNext){
+                    <li class="page-item">
+                        <a class="page-link" asp-action="index" asp-route-page="@(Model.CurrentPage+1)">Next</a>
+                    </li>
+               }
+            </ul>
+        </nav>
+   </form>
     </div>
 </div>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/limonte-sweetalert2/11.7.1/sweetalert2.min.js" integrity="sha512-vCI1Ba/Ob39YYPiWruLs4uHSA3QzxgHBcJNfFMRMJr832nT/2FBrwmMGQMwlD6Z/rAIIwZFX8vJJWDj7odXMaw==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+<script src="~/admin/js/alert.js"></script>

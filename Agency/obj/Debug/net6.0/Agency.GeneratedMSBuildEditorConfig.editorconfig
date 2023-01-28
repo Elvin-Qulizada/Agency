@@ -9,89 +9,89 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Agency
 build_property.RootNamespace = Agency
-build_property.ProjectDir = C:\Users\Elvin Qulizada\source\repos\Agency\Agency\
+build_property.ProjectDir = C:\Users\Elvin Qulizada\Desktop\Exam Latest\Agency\Agency\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Elvin Qulizada\source\repos\Agency\Agency
+build_property.MSBuildProjectDirectory = C:\Users\Elvin Qulizada\Desktop\Exam Latest\Agency\Agency
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Elvin Qulizada/source/repos/Agency/Agency/Areas/Manage/Views/Account/Login.cshtml]
+[C:/Users/Elvin Qulizada/Desktop/Exam Latest/Agency/Agency/Areas/Manage/Views/Account/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFuYWdlXFZpZXdzXEFjY291bnRcTG9naW4uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Elvin Qulizada/source/repos/Agency/Agency/Areas/Manage/Views/Category/Create.cshtml]
+[C:/Users/Elvin Qulizada/Desktop/Exam Latest/Agency/Agency/Areas/Manage/Views/Category/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFuYWdlXFZpZXdzXENhdGVnb3J5XENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Elvin Qulizada/source/repos/Agency/Agency/Areas/Manage/Views/Category/Index.cshtml]
+[C:/Users/Elvin Qulizada/Desktop/Exam Latest/Agency/Agency/Areas/Manage/Views/Category/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFuYWdlXFZpZXdzXENhdGVnb3J5XEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Elvin Qulizada/source/repos/Agency/Agency/Areas/Manage/Views/Category/Update.cshtml]
+[C:/Users/Elvin Qulizada/Desktop/Exam Latest/Agency/Agency/Areas/Manage/Views/Category/Update.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFuYWdlXFZpZXdzXENhdGVnb3J5XFVwZGF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Elvin Qulizada/source/repos/Agency/Agency/Areas/Manage/Views/Dashboard/Index.cshtml]
+[C:/Users/Elvin Qulizada/Desktop/Exam Latest/Agency/Agency/Areas/Manage/Views/Dashboard/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFuYWdlXFZpZXdzXERhc2hib2FyZFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Elvin Qulizada/source/repos/Agency/Agency/Areas/Manage/Views/Portfolio/Create.cshtml]
+[C:/Users/Elvin Qulizada/Desktop/Exam Latest/Agency/Agency/Areas/Manage/Views/Portfolio/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFuYWdlXFZpZXdzXFBvcnRmb2xpb1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Elvin Qulizada/source/repos/Agency/Agency/Areas/Manage/Views/Portfolio/Index.cshtml]
+[C:/Users/Elvin Qulizada/Desktop/Exam Latest/Agency/Agency/Areas/Manage/Views/Portfolio/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFuYWdlXFZpZXdzXFBvcnRmb2xpb1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Elvin Qulizada/source/repos/Agency/Agency/Areas/Manage/Views/Portfolio/Update.cshtml]
+[C:/Users/Elvin Qulizada/Desktop/Exam Latest/Agency/Agency/Areas/Manage/Views/Portfolio/Update.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFuYWdlXFZpZXdzXFBvcnRmb2xpb1xVcGRhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Elvin Qulizada/source/repos/Agency/Agency/Areas/Manage/Views/Setting/Index.cshtml]
+[C:/Users/Elvin Qulizada/Desktop/Exam Latest/Agency/Agency/Areas/Manage/Views/Setting/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFuYWdlXFZpZXdzXFNldHRpbmdcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Elvin Qulizada/source/repos/Agency/Agency/Areas/Manage/Views/Setting/Update.cshtml]
+[C:/Users/Elvin Qulizada/Desktop/Exam Latest/Agency/Agency/Areas/Manage/Views/Setting/Update.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFuYWdlXFZpZXdzXFNldHRpbmdcVXBkYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Elvin Qulizada/source/repos/Agency/Agency/Areas/Manage/Views/Shared/Error.cshtml]
+[C:/Users/Elvin Qulizada/Desktop/Exam Latest/Agency/Agency/Areas/Manage/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFuYWdlXFZpZXdzXFNoYXJlZFxFcnJvci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Elvin Qulizada/source/repos/Agency/Agency/Areas/Manage/Views/Shared/_Layout.cshtml]
+[C:/Users/Elvin Qulizada/Desktop/Exam Latest/Agency/Agency/Areas/Manage/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFuYWdlXFZpZXdzXFNoYXJlZFxfTGF5b3V0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Elvin Qulizada/source/repos/Agency/Agency/Areas/Manage/Views/_ViewImports.cshtml]
+[C:/Users/Elvin Qulizada/Desktop/Exam Latest/Agency/Agency/Areas/Manage/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFuYWdlXFZpZXdzXF9WaWV3SW1wb3J0cy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Elvin Qulizada/source/repos/Agency/Agency/Areas/Manage/Views/_ViewStart.cshtml]
+[C:/Users/Elvin Qulizada/Desktop/Exam Latest/Agency/Agency/Areas/Manage/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFuYWdlXFZpZXdzXF9WaWV3U3RhcnQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Elvin Qulizada/source/repos/Agency/Agency/Views/Account/Login.cshtml]
+[C:/Users/Elvin Qulizada/Desktop/Exam Latest/Agency/Agency/Views/Account/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Elvin Qulizada/source/repos/Agency/Agency/Views/Account/Register.cshtml]
+[C:/Users/Elvin Qulizada/Desktop/Exam Latest/Agency/Agency/Views/Account/Register.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Elvin Qulizada/source/repos/Agency/Agency/Views/Home/Index.cshtml]
+[C:/Users/Elvin Qulizada/Desktop/Exam Latest/Agency/Agency/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Elvin Qulizada/source/repos/Agency/Agency/Views/_ViewImports.cshtml]
+[C:/Users/Elvin Qulizada/Desktop/Exam Latest/Agency/Agency/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Elvin Qulizada/source/repos/Agency/Agency/Views/_ViewStart.cshtml]
+[C:/Users/Elvin Qulizada/Desktop/Exam Latest/Agency/Agency/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Elvin Qulizada/source/repos/Agency/Agency/Views/Shared/_Layout.cshtml]
+[C:/Users/Elvin Qulizada/Desktop/Exam Latest/Agency/Agency/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-57wf82c8df

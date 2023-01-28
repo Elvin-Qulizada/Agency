@@ -26,7 +26,7 @@ namespace Agency.Areas.Manage.Controllers
             PaginatedList<Portfolio> list = PaginatedList<Portfolio>.Create(query,page,2);
             return View(list);
         }
-        public IActionResult Create()
+        public IActionResult Create()//Category-den sonra yaradilmalidir. Chunki aralarinda one to many elaqe var
         {
             ViewBag.Categories = _context.Categories.ToList();
             return View();

@@ -1,807 +1,811 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\Elvin Qulizada\\source\\repos\\Agency\\Agency\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Agency.bundle.scp.css",
+      "Id": "C:\\Users\\Elvin Qulizada\\Desktop\\Exam Latest\\Agency\\Agency\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Agency.bundle.scp.css",
       "PackagePath": "staticwebassets\\Agency.bundle.scp.css"
     },
     {
-      "Id": "C:\\Users\\Elvin Qulizada\\source\\repos\\Agency\\Agency\\wwwroot\\admin\\css\\bootstrap.min.css",
+      "Id": "C:\\Users\\Elvin Qulizada\\Desktop\\Exam Latest\\Agency\\Agency\\wwwroot\\admin\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\admin\\css\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\Elvin Qulizada\\source\\repos\\Agency\\Agency\\wwwroot\\admin\\css\\style.css",
+      "Id": "C:\\Users\\Elvin Qulizada\\Desktop\\Exam Latest\\Agency\\Agency\\wwwroot\\admin\\css\\style.css",
       "PackagePath": "staticwebassets\\admin\\css\\style.css"
     },
     {
-      "Id": "C:\\Users\\Elvin Qulizada\\source\\repos\\Agency\\Agency\\wwwroot\\admin\\img\\testimonial-1.jpg",
+      "Id": "C:\\Users\\Elvin Qulizada\\Desktop\\Exam Latest\\Agency\\Agency\\wwwroot\\admin\\img\\testimonial-1.jpg",
       "PackagePath": "staticwebassets\\admin\\img\\testimonial-1.jpg"
     },
     {
-      "Id": "C:\\Users\\Elvin Qulizada\\source\\repos\\Agency\\Agency\\wwwroot\\admin\\img\\testimonial-2.jpg",
+      "Id": "C:\\Users\\Elvin Qulizada\\Desktop\\Exam Latest\\Agency\\Agency\\wwwroot\\admin\\img\\testimonial-2.jpg",
       "PackagePath": "staticwebassets\\admin\\img\\testimonial-2.jpg"
     },
     {
-      "Id": "C:\\Users\\Elvin Qulizada\\source\\repos\\Agency\\Agency\\wwwroot\\admin\\img\\user.jpg",
+      "Id": "C:\\Users\\Elvin Qulizada\\Desktop\\Exam Latest\\Agency\\Agency\\wwwroot\\admin\\img\\user.jpg",
       "PackagePath": "staticwebassets\\admin\\img\\user.jpg"
     },
     {
-      "Id": "C:\\Users\\Elvin Qulizada\\source\\repos\\Agency\\Agency\\wwwroot\\admin\\js\\main.js",
+      "Id": "C:\\Users\\Elvin Qulizada\\Desktop\\Exam Latest\\Agency\\Agency\\wwwroot\\admin\\js\\alert.js",
+      "PackagePath": "staticwebassets\\admin\\js\\alert.js"
+    },
+    {
+      "Id": "C:\\Users\\Elvin Qulizada\\Desktop\\Exam Latest\\Agency\\Agency\\wwwroot\\admin\\js\\main.js",
       "PackagePath": "staticwebassets\\admin\\js\\main.js"
     },
     {
-      "Id": "C:\\Users\\Elvin Qulizada\\source\\repos\\Agency\\Agency\\wwwroot\\admin\\lib\\chart\\chart.min.js",
+      "Id": "C:\\Users\\Elvin Qulizada\\Desktop\\Exam Latest\\Agency\\Agency\\wwwroot\\admin\\lib\\chart\\chart.min.js",
       "PackagePath": "staticwebassets\\admin\\lib\\chart\\chart.min.js"
     },
     {
-      "Id": "C:\\Users\\Elvin Qulizada\\source\\repos\\Agency\\Agency\\wwwroot\\admin\\lib\\easing\\easing.js",
+      "Id": "C:\\Users\\Elvin Qulizada\\Desktop\\Exam Latest\\Agency\\Agency\\wwwroot\\admin\\lib\\easing\\easing.js",
       "PackagePath": "staticwebassets\\admin\\lib\\easing\\easing.js"
     },
     {
-      "Id": "C:\\Users\\Elvin Qulizada\\source\\repos\\Agency\\Agency\\wwwroot\\admin\\lib\\easing\\easing.min.js",
+      "Id": "C:\\Users\\Elvin Qulizada\\Desktop\\Exam Latest\\Agency\\Agency\\wwwroot\\admin\\lib\\easing\\easing.min.js",
       "PackagePath": "staticwebassets\\admin\\lib\\easing\\easing.min.js"
     },
     {
-      "Id": "C:\\Users\\Elvin Qulizada\\source\\repos\\Agency\\Agency\\wwwroot\\admin\\lib\\owlcarousel\\LICENSE",
+      "Id": "C:\\Users\\Elvin Qulizada\\Desktop\\Exam Latest\\Agency\\Agency\\wwwroot\\admin\\lib\\owlcarousel\\LICENSE",
       "PackagePath": "staticwebassets\\admin\\lib\\owlcarousel"
     },
     {
-      "Id": "C:\\Users\\Elvin Qulizada\\source\\repos\\Agency\\Agency\\wwwroot\\admin\\lib\\owlcarousel\\assets\\ajax-loader.gif",
+      "Id": "C:\\Users\\Elvin Qulizada\\Desktop\\Exam Latest\\Agency\\Agency\\wwwroot\\admin\\lib\\owlcarousel\\assets\\ajax-loader.gif",
       "PackagePath": "staticwebassets\\admin\\lib\\owlcarousel\\assets\\ajax-loader.gif"
     },
     {
-      "Id": "C:\\Users\\Elvin Qulizada\\source\\repos\\Agency\\Agency\\wwwroot\\admin\\lib\\owlcarousel\\assets\\owl.carousel.css",
+      "Id": "C:\\Users\\Elvin Qulizada\\Desktop\\Exam Latest\\Agency\\Agency\\wwwroot\\admin\\lib\\owlcarousel\\assets\\owl.carousel.css",
       "PackagePath": "staticwebassets\\admin\\lib\\owlcarousel\\assets\\owl.carousel.css"
     },
     {
-      "Id": "C:\\Users\\Elvin Qulizada\\source\\repos\\Agency\\Agency\\wwwroot\\admin\\lib\\owlcarousel\\assets\\owl.carousel.min.css",
+      "Id": "C:\\Users\\Elvin Qulizada\\Desktop\\Exam Latest\\Agency\\Agency\\wwwroot\\admin\\lib\\owlcarousel\\assets\\owl.carousel.min.css",
       "PackagePath": "staticwebassets\\admin\\lib\\owlcarousel\\assets\\owl.carousel.min.css"
     },
     {
-      "Id": "C:\\Users\\Elvin Qulizada\\source\\repos\\Agency\\Agency\\wwwroot\\admin\\lib\\owlcarousel\\assets\\owl.theme.default.css",
+      "Id": "C:\\Users\\Elvin Qulizada\\Desktop\\Exam Latest\\Agency\\Agency\\wwwroot\\admin\\lib\\owlcarousel\\assets\\owl.theme.default.css",
       "PackagePath": "staticwebassets\\admin\\lib\\owlcarousel\\assets\\owl.theme.default.css"
     },
     {
-      "Id": "C:\\Users\\Elvin Qulizada\\source\\repos\\Agency\\Agency\\wwwroot\\admin\\lib\\owlcarousel\\assets\\owl.theme.default.min.css",
+      "Id": "C:\\Users\\Elvin Qulizada\\Desktop\\Exam Latest\\Agency\\Agency\\wwwroot\\admin\\lib\\owlcarousel\\assets\\owl.theme.default.min.css",
       "PackagePath": "staticwebassets\\admin\\lib\\owlcarousel\\assets\\owl.theme.default.min.css"
     },
     {
-      "Id": "C:\\Users\\Elvin Qulizada\\source\\repos\\Agency\\Agency\\wwwroot\\admin\\lib\\owlcarousel\\assets\\owl.theme.green.css",
+      "Id": "C:\\Users\\Elvin Qulizada\\Desktop\\Exam Latest\\Agency\\Agency\\wwwroot\\admin\\lib\\owlcarousel\\assets\\owl.theme.green.css",
       "PackagePath": "staticwebassets\\admin\\lib\\owlcarousel\\assets\\owl.theme.green.css"
     },
     {
-      "Id": "C:\\Users\\Elvin Qulizada\\source\\repos\\Agency\\Agency\\wwwroot\\admin\\lib\\owlcarousel\\assets\\owl.theme.green.min.css",
+      "Id": "C:\\Users\\Elvin Qulizada\\Desktop\\Exam Latest\\Agency\\Agency\\wwwroot\\admin\\lib\\owlcarousel\\assets\\owl.theme.green.min.css",
       "PackagePath": "staticwebassets\\admin\\lib\\owlcarousel\\assets\\owl.theme.green.min.css"
     },
     {
-      "Id": "C:\\Users\\Elvin Qulizada\\source\\repos\\Agency\\Agency\\wwwroot\\admin\\lib\\owlcarousel\\assets\\owl.video.play.png",
+      "Id": "C:\\Users\\Elvin Qulizada\\Desktop\\Exam Latest\\Agency\\Agency\\wwwroot\\admin\\lib\\owlcarousel\\assets\\owl.video.play.png",
       "PackagePath": "staticwebassets\\admin\\lib\\owlcarousel\\assets\\owl.video.play.png"
     },
     {
-      "Id": "C:\\Users\\Elvin Qulizada\\source\\repos\\Agency\\Agency\\wwwroot\\admin\\lib\\owlcarousel\\owl.carousel.js",
+      "Id": "C:\\Users\\Elvin Qulizada\\Desktop\\Exam Latest\\Agency\\Agency\\wwwroot\\admin\\lib\\owlcarousel\\owl.carousel.js",
       "PackagePath": "staticwebassets\\admin\\lib\\owlcarousel\\owl.carousel.js"
     },
     {
-      "Id": "C:\\Users\\Elvin Qulizada\\source\\repos\\Agency\\Agency\\wwwroot\\admin\\lib\\owlcarousel\\owl.carousel.min.js",
+      "Id": "C:\\Users\\Elvin Qulizada\\Desktop\\Exam Latest\\Agency\\Agency\\wwwroot\\admin\\lib\\owlcarousel\\owl.carousel.min.js",
       "PackagePath": "staticwebassets\\admin\\lib\\owlcarousel\\owl.carousel.min.js"
     },
     {
-      "Id": "C:\\Users\\Elvin Qulizada\\source\\repos\\Agency\\Agency\\wwwroot\\admin\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.css",
+      "Id": "C:\\Users\\Elvin Qulizada\\Desktop\\Exam Latest\\Agency\\Agency\\wwwroot\\admin\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.css",
       "PackagePath": "staticwebassets\\admin\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.css"
     },
     {
-      "Id": "C:\\Users\\Elvin Qulizada\\source\\repos\\Agency\\Agency\\wwwroot\\admin\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.min.css",
+      "Id": "C:\\Users\\Elvin Qulizada\\Desktop\\Exam Latest\\Agency\\Agency\\wwwroot\\admin\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.min.css",
       "PackagePath": "staticwebassets\\admin\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.min.css"
     },
     {
-      "Id": "C:\\Users\\Elvin Qulizada\\source\\repos\\Agency\\Agency\\wwwroot\\admin\\lib\\tempusdominus\\js\\moment-timezone.min.js",
+      "Id": "C:\\Users\\Elvin Qulizada\\Desktop\\Exam Latest\\Agency\\Agency\\wwwroot\\admin\\lib\\tempusdominus\\js\\moment-timezone.min.js",
       "PackagePath": "staticwebassets\\admin\\lib\\tempusdominus\\js\\moment-timezone.min.js"
     },
     {
-      "Id": "C:\\Users\\Elvin Qulizada\\source\\repos\\Agency\\Agency\\wwwroot\\admin\\lib\\tempusdominus\\js\\moment.min.js",
+      "Id": "C:\\Users\\Elvin Qulizada\\Desktop\\Exam Latest\\Agency\\Agency\\wwwroot\\admin\\lib\\tempusdominus\\js\\moment.min.js",
       "PackagePath": "staticwebassets\\admin\\lib\\tempusdominus\\js\\moment.min.js"
     },
     {
-      "Id": "C:\\Users\\Elvin Qulizada\\source\\repos\\Agency\\Agency\\wwwroot\\admin\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.js",
+      "Id": "C:\\Users\\Elvin Qulizada\\Desktop\\Exam Latest\\Agency\\Agency\\wwwroot\\admin\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.js",
       "PackagePath": "staticwebassets\\admin\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.js"
     },
     {
-      "Id": "C:\\Users\\Elvin Qulizada\\source\\repos\\Agency\\Agency\\wwwroot\\admin\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.min.js",
+      "Id": "C:\\Users\\Elvin Qulizada\\Desktop\\Exam Latest\\Agency\\Agency\\wwwroot\\admin\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.min.js",
       "PackagePath": "staticwebassets\\admin\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.min.js"
     },
     {
-      "Id": "C:\\Users\\Elvin Qulizada\\source\\repos\\Agency\\Agency\\wwwroot\\admin\\lib\\waypoints\\links.php",
+      "Id": "C:\\Users\\Elvin Qulizada\\Desktop\\Exam Latest\\Agency\\Agency\\wwwroot\\admin\\lib\\waypoints\\links.php",
       "PackagePath": "staticwebassets\\admin\\lib\\waypoints\\links.php"
     },
     {
-      "Id": "C:\\Users\\Elvin Qulizada\\source\\repos\\Agency\\Agency\\wwwroot\\admin\\lib\\waypoints\\waypoints.min.js",
+      "Id": "C:\\Users\\Elvin Qulizada\\Desktop\\Exam Latest\\Agency\\Agency\\wwwroot\\admin\\lib\\waypoints\\waypoints.min.js",
       "PackagePath": "staticwebassets\\admin\\lib\\waypoints\\waypoints.min.js"
     },
     {
-      "Id": "C:\\Users\\Elvin Qulizada\\source\\repos\\Agency\\Agency\\wwwroot\\admin\\scss\\bootstrap.scss",
+      "Id": "C:\\Users\\Elvin Qulizada\\Desktop\\Exam Latest\\Agency\\Agency\\wwwroot\\admin\\scss\\bootstrap.scss",
       "PackagePath": "staticwebassets\\admin\\scss\\bootstrap.scss"
     },
     {
-      "Id": "C:\\Users\\Elvin Qulizada\\source\\repos\\Agency\\Agency\\wwwroot\\admin\\scss\\bootstrap\\scss\\_accordion.scss",
+      "Id": "C:\\Users\\Elvin Qulizada\\Desktop\\Exam Latest\\Agency\\Agency\\wwwroot\\admin\\scss\\bootstrap\\scss\\_accordion.scss",
       "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\_accordion.scss"
     },
     {
-      "Id": "C:\\Users\\Elvin Qulizada\\source\\repos\\Agency\\Agency\\wwwroot\\admin\\scss\\bootstrap\\scss\\_alert.scss",
+      "Id": "C:\\Users\\Elvin Qulizada\\Desktop\\Exam Latest\\Agency\\Agency\\wwwroot\\admin\\scss\\bootstrap\\scss\\_alert.scss",
       "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\_alert.scss"
     },
     {
-      "Id": "C:\\Users\\Elvin Qulizada\\source\\repos\\Agency\\Agency\\wwwroot\\admin\\scss\\bootstrap\\scss\\_badge.scss",
+      "Id": "C:\\Users\\Elvin Qulizada\\Desktop\\Exam Latest\\Agency\\Agency\\wwwroot\\admin\\scss\\bootstrap\\scss\\_badge.scss",
       "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\_badge.scss"
     },
     {
-      "Id": "C:\\Users\\Elvin Qulizada\\source\\repos\\Agency\\Agency\\wwwroot\\admin\\scss\\bootstrap\\scss\\_breadcrumb.scss",
+      "Id": "C:\\Users\\Elvin Qulizada\\Desktop\\Exam Latest\\Agency\\Agency\\wwwroot\\admin\\scss\\bootstrap\\scss\\_breadcrumb.scss",
       "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\_breadcrumb.scss"
     },
     {
-      "Id": "C:\\Users\\Elvin Qulizada\\source\\repos\\Agency\\Agency\\wwwroot\\admin\\scss\\bootstrap\\scss\\_button-group.scss",
+      "Id": "C:\\Users\\Elvin Qulizada\\Desktop\\Exam Latest\\Agency\\Agency\\wwwroot\\admin\\scss\\bootstrap\\scss\\_button-group.scss",
       "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\_button-group.scss"
     },
     {
-      "Id": "C:\\Users\\Elvin Qulizada\\source\\repos\\Agency\\Agency\\wwwroot\\admin\\scss\\bootstrap\\scss\\_buttons.scss",
+      "Id": "C:\\Users\\Elvin Qulizada\\Desktop\\Exam Latest\\Agency\\Agency\\wwwroot\\admin\\scss\\bootstrap\\scss\\_buttons.scss",
       "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\_buttons.scss"
     },
     {
-      "Id": "C:\\Users\\Elvin Qulizada\\source\\repos\\Agency\\Agency\\wwwroot\\admin\\scss\\bootstrap\\scss\\_card.scss",
+      "Id": "C:\\Users\\Elvin Qulizada\\Desktop\\Exam Latest\\Agency\\Agency\\wwwroot\\admin\\scss\\bootstrap\\scss\\_card.scss",
       "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\_card.scss"
     },
     {
-      "Id": "C:\\Users\\Elvin Qulizada\\source\\repos\\Agency\\Agency\\wwwroot\\admin\\scss\\bootstrap\\scss\\_carousel.scss",
+      "Id": "C:\\Users\\Elvin Qulizada\\Desktop\\Exam Latest\\Agency\\Agency\\wwwroot\\admin\\scss\\bootstrap\\scss\\_carousel.scss",
       "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\_carousel.scss"
     },
     {
-      "Id": "C:\\Users\\Elvin Qulizada\\source\\repos\\Agency\\Agency\\wwwroot\\admin\\scss\\bootstrap\\scss\\_close.scss",
+      "Id": "C:\\Users\\Elvin Qulizada\\Desktop\\Exam Latest\\Agency\\Agency\\wwwroot\\admin\\scss\\bootstrap\\scss\\_close.scss",
       "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\_close.scss"
     },
     {
-      "Id": "C:\\Users\\Elvin Qulizada\\source\\repos\\Agency\\Agency\\wwwroot\\admin\\scss\\bootstrap\\scss\\_containers.scss",
+      "Id": "C:\\Users\\Elvin Qulizada\\Desktop\\Exam Latest\\Agency\\Agency\\wwwroot\\admin\\scss\\bootstrap\\scss\\_containers.scss",
       "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\_containers.scss"
     },
     {
-      "Id": "C:\\Users\\Elvin Qulizada\\source\\repos\\Agency\\Agency\\wwwroot\\admin\\scss\\bootstrap\\scss\\_dropdown.scss",
+      "Id": "C:\\Users\\Elvin Qulizada\\Desktop\\Exam Latest\\Agency\\Agency\\wwwroot\\admin\\scss\\bootstrap\\scss\\_dropdown.scss",
       "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\_dropdown.scss"
     },
     {
-      "Id": "C:\\Users\\Elvin Qulizada\\source\\repos\\Agency\\Agency\\wwwroot\\admin\\scss\\bootstrap\\scss\\_forms.scss",
+      "Id": "C:\\Users\\Elvin Qulizada\\Desktop\\Exam Latest\\Agency\\Agency\\wwwroot\\admin\\scss\\bootstrap\\scss\\_forms.scss",
       "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\_forms.scss"
     },
     {
-      "Id": "C:\\Users\\Elvin Qulizada\\source\\repos\\Agency\\Agency\\wwwroot\\admin\\scss\\bootstrap\\scss\\_functions.scss",
+      "Id": "C:\\Users\\Elvin Qulizada\\Desktop\\Exam Latest\\Agency\\Agency\\wwwroot\\admin\\scss\\bootstrap\\scss\\_functions.scss",
       "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\_functions.scss"
     },
     {
-      "Id": "C:\\Users\\Elvin Qulizada\\source\\repos\\Agency\\Agency\\wwwroot\\admin\\scss\\bootstrap\\scss\\_grid.scss",
+      "Id": "C:\\Users\\Elvin Qulizada\\Desktop\\Exam Latest\\Agency\\Agency\\wwwroot\\admin\\scss\\bootstrap\\scss\\_grid.scss",
       "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\_grid.scss"
     },
     {
-      "Id": "C:\\Users\\Elvin Qulizada\\source\\repos\\Agency\\Agency\\wwwroot\\admin\\scss\\bootstrap\\scss\\_helpers.scss",
+      "Id": "C:\\Users\\Elvin Qulizada\\Desktop\\Exam Latest\\Agency\\Agency\\wwwroot\\admin\\scss\\bootstrap\\scss\\_helpers.scss",
       "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\_helpers.scss"
     },
     {
-      "Id": "C:\\Users\\Elvin Qulizada\\source\\repos\\Agency\\Agency\\wwwroot\\admin\\scss\\bootstrap\\scss\\_images.scss",
+      "Id": "C:\\Users\\Elvin Qulizada\\Desktop\\Exam Latest\\Agency\\Agency\\wwwroot\\admin\\scss\\bootstrap\\scss\\_images.scss",
       "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\_images.scss"
     },
     {
-      "Id": "C:\\Users\\Elvin Qulizada\\source\\repos\\Agency\\Agency\\wwwroot\\admin\\scss\\bootstrap\\scss\\_list-group.scss",
+      "Id": "C:\\Users\\Elvin Qulizada\\Desktop\\Exam Latest\\Agency\\Agency\\wwwroot\\admin\\scss\\bootstrap\\scss\\_list-group.scss",
       "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\_list-group.scss"
     },
     {
-      "Id": "C:\\Users\\Elvin Qulizada\\source\\repos\\Agency\\Agency\\wwwroot\\admin\\scss\\bootstrap\\scss\\_mixins.scss",
+      "Id": "C:\\Users\\Elvin Qulizada\\Desktop\\Exam Latest\\Agency\\Agency\\wwwroot\\admin\\scss\\bootstrap\\scss\\_mixins.scss",
       "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\_mixins.scss"
     },
     {
-      "Id": "C:\\Users\\Elvin Qulizada\\source\\repos\\Agency\\Agency\\wwwroot\\admin\\scss\\bootstrap\\scss\\_modal.scss",
+      "Id": "C:\\Users\\Elvin Qulizada\\Desktop\\Exam Latest\\Agency\\Agency\\wwwroot\\admin\\scss\\bootstrap\\scss\\_modal.scss",
       "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\_modal.scss"
     },
     {
-      "Id": "C:\\Users\\Elvin Qulizada\\source\\repos\\Agency\\Agency\\wwwroot\\admin\\scss\\bootstrap\\scss\\_nav.scss",
+      "Id": "C:\\Users\\Elvin Qulizada\\Desktop\\Exam Latest\\Agency\\Agency\\wwwroot\\admin\\scss\\bootstrap\\scss\\_nav.scss",
       "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\_nav.scss"
     },
     {
-      "Id": "C:\\Users\\Elvin Qulizada\\source\\repos\\Agency\\Agency\\wwwroot\\admin\\scss\\bootstrap\\scss\\_navbar.scss",
+      "Id": "C:\\Users\\Elvin Qulizada\\Desktop\\Exam Latest\\Agency\\Agency\\wwwroot\\admin\\scss\\bootstrap\\scss\\_navbar.scss",
       "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\_navbar.scss"
     },
     {
-      "Id": "C:\\Users\\Elvin Qulizada\\source\\repos\\Agency\\Agency\\wwwroot\\admin\\scss\\bootstrap\\scss\\_offcanvas.scss",
+      "Id": "C:\\Users\\Elvin Qulizada\\Desktop\\Exam Latest\\Agency\\Agency\\wwwroot\\admin\\scss\\bootstrap\\scss\\_offcanvas.scss",
       "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\_offcanvas.scss"
     },
     {
-      "Id": "C:\\Users\\Elvin Qulizada\\source\\repos\\Agency\\Agency\\wwwroot\\admin\\scss\\bootstrap\\scss\\_pagination.scss",
+      "Id": "C:\\Users\\Elvin Qulizada\\Desktop\\Exam Latest\\Agency\\Agency\\wwwroot\\admin\\scss\\bootstrap\\scss\\_pagination.scss",
       "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\_pagination.scss"
     },
     {
-      "Id": "C:\\Users\\Elvin Qulizada\\source\\repos\\Agency\\Agency\\wwwroot\\admin\\scss\\bootstrap\\scss\\_popover.scss",
+      "Id": "C:\\Users\\Elvin Qulizada\\Desktop\\Exam Latest\\Agency\\Agency\\wwwroot\\admin\\scss\\bootstrap\\scss\\_popover.scss",
       "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\_popover.scss"
     },
     {
-      "Id": "C:\\Users\\Elvin Qulizada\\source\\repos\\Agency\\Agency\\wwwroot\\admin\\scss\\bootstrap\\scss\\_progress.scss",
+      "Id": "C:\\Users\\Elvin Qulizada\\Desktop\\Exam Latest\\Agency\\Agency\\wwwroot\\admin\\scss\\bootstrap\\scss\\_progress.scss",
       "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\_progress.scss"
     },
     {
-      "Id": "C:\\Users\\Elvin Qulizada\\source\\repos\\Agency\\Agency\\wwwroot\\admin\\scss\\bootstrap\\scss\\_reboot.scss",
+      "Id": "C:\\Users\\Elvin Qulizada\\Desktop\\Exam Latest\\Agency\\Agency\\wwwroot\\admin\\scss\\bootstrap\\scss\\_reboot.scss",
       "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\_reboot.scss"
     },
     {
-      "Id": "C:\\Users\\Elvin Qulizada\\source\\repos\\Agency\\Agency\\wwwroot\\admin\\scss\\bootstrap\\scss\\_root.scss",
+      "Id": "C:\\Users\\Elvin Qulizada\\Desktop\\Exam Latest\\Agency\\Agency\\wwwroot\\admin\\scss\\bootstrap\\scss\\_root.scss",
       "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\_root.scss"
     },
     {
-      "Id": "C:\\Users\\Elvin Qulizada\\source\\repos\\Agency\\Agency\\wwwroot\\admin\\scss\\bootstrap\\scss\\_spinners.scss",
+      "Id": "C:\\Users\\Elvin Qulizada\\Desktop\\Exam Latest\\Agency\\Agency\\wwwroot\\admin\\scss\\bootstrap\\scss\\_spinners.scss",
       "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\_spinners.scss"
     },
     {
-      "Id": "C:\\Users\\Elvin Qulizada\\source\\repos\\Agency\\Agency\\wwwroot\\admin\\scss\\bootstrap\\scss\\_tables.scss",
+      "Id": "C:\\Users\\Elvin Qulizada\\Desktop\\Exam Latest\\Agency\\Agency\\wwwroot\\admin\\scss\\bootstrap\\scss\\_tables.scss",
       "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\_tables.scss"
     },
     {
-      "Id": "C:\\Users\\Elvin Qulizada\\source\\repos\\Agency\\Agency\\wwwroot\\admin\\scss\\bootstrap\\scss\\_toasts.scss",
+      "Id": "C:\\Users\\Elvin Qulizada\\Desktop\\Exam Latest\\Agency\\Agency\\wwwroot\\admin\\scss\\bootstrap\\scss\\_toasts.scss",
       "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\_toasts.scss"
     },
     {
-      "Id": "C:\\Users\\Elvin Qulizada\\source\\repos\\Agency\\Agency\\wwwroot\\admin\\scss\\bootstrap\\scss\\_tooltip.scss",
+      "Id": "C:\\Users\\Elvin Qulizada\\Desktop\\Exam Latest\\Agency\\Agency\\wwwroot\\admin\\scss\\bootstrap\\scss\\_tooltip.scss",
       "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\_tooltip.scss"
     },
     {
-      "Id": "C:\\Users\\Elvin Qulizada\\source\\repos\\Agency\\Agency\\wwwroot\\admin\\scss\\bootstrap\\scss\\_transitions.scss",
+      "Id": "C:\\Users\\Elvin Qulizada\\Desktop\\Exam Latest\\Agency\\Agency\\wwwroot\\admin\\scss\\bootstrap\\scss\\_transitions.scss",
       "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\_transitions.scss"
     },
     {
-      "Id": "C:\\Users\\Elvin Qulizada\\source\\repos\\Agency\\Agency\\wwwroot\\admin\\scss\\bootstrap\\scss\\_type.scss",
+      "Id": "C:\\Users\\Elvin Qulizada\\Desktop\\Exam Latest\\Agency\\Agency\\wwwroot\\admin\\scss\\bootstrap\\scss\\_type.scss",
       "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\_type.scss"
     },
     {
-      "Id": "C:\\Users\\Elvin Qulizada\\source\\repos\\Agency\\Agency\\wwwroot\\admin\\scss\\bootstrap\\scss\\_utilities.scss",
+      "Id": "C:\\Users\\Elvin Qulizada\\Desktop\\Exam Latest\\Agency\\Agency\\wwwroot\\admin\\scss\\bootstrap\\scss\\_utilities.scss",
       "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\_utilities.scss"
     },
     {
-      "Id": "C:\\Users\\Elvin Qulizada\\source\\repos\\Agency\\Agency\\wwwroot\\admin\\scss\\bootstrap\\scss\\_variables.scss",
+      "Id": "C:\\Users\\Elvin Qulizada\\Desktop\\Exam Latest\\Agency\\Agency\\wwwroot\\admin\\scss\\bootstrap\\scss\\_variables.scss",
       "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\_variables.scss"
     },
     {
-      "Id": "C:\\Users\\Elvin Qulizada\\source\\repos\\Agency\\Agency\\wwwroot\\admin\\scss\\bootstrap\\scss\\bootstrap-grid.scss",
+      "Id": "C:\\Users\\Elvin Qulizada\\Desktop\\Exam Latest\\Agency\\Agency\\wwwroot\\admin\\scss\\bootstrap\\scss\\bootstrap-grid.scss",
       "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\bootstrap-grid.scss"
     },
     {
-      "Id": "C:\\Users\\Elvin Qulizada\\source\\repos\\Agency\\Agency\\wwwroot\\admin\\scss\\bootstrap\\scss\\bootstrap-reboot.scss",
+      "Id": "C:\\Users\\Elvin Qulizada\\Desktop\\Exam Latest\\Agency\\Agency\\wwwroot\\admin\\scss\\bootstrap\\scss\\bootstrap-reboot.scss",
       "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\bootstrap-reboot.scss"
     },
     {
-      "Id": "C:\\Users\\Elvin Qulizada\\source\\repos\\Agency\\Agency\\wwwroot\\admin\\scss\\bootstrap\\scss\\bootstrap-utilities.scss",
+      "Id": "C:\\Users\\Elvin Qulizada\\Desktop\\Exam Latest\\Agency\\Agency\\wwwroot\\admin\\scss\\bootstrap\\scss\\bootstrap-utilities.scss",
       "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\bootstrap-utilities.scss"
     },
     {
-      "Id": "C:\\Users\\Elvin Qulizada\\source\\repos\\Agency\\Agency\\wwwroot\\admin\\scss\\bootstrap\\scss\\bootstrap.scss",
+      "Id": "C:\\Users\\Elvin Qulizada\\Desktop\\Exam Latest\\Agency\\Agency\\wwwroot\\admin\\scss\\bootstrap\\scss\\bootstrap.scss",
       "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\bootstrap.scss"
     },
     {
-      "Id": "C:\\Users\\Elvin Qulizada\\source\\repos\\Agency\\Agency\\wwwroot\\admin\\scss\\bootstrap\\scss\\forms\\_floating-labels.scss",
+      "Id": "C:\\Users\\Elvin Qulizada\\Desktop\\Exam Latest\\Agency\\Agency\\wwwroot\\admin\\scss\\bootstrap\\scss\\forms\\_floating-labels.scss",
       "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\forms\\_floating-labels.scss"
     },
     {
-      "Id": "C:\\Users\\Elvin Qulizada\\source\\repos\\Agency\\Agency\\wwwroot\\admin\\scss\\bootstrap\\scss\\forms\\_form-check.scss",
+      "Id": "C:\\Users\\Elvin Qulizada\\Desktop\\Exam Latest\\Agency\\Agency\\wwwroot\\admin\\scss\\bootstrap\\scss\\forms\\_form-check.scss",
       "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\forms\\_form-check.scss"
     },
     {
-      "Id": "C:\\Users\\Elvin Qulizada\\source\\repos\\Agency\\Agency\\wwwroot\\admin\\scss\\bootstrap\\scss\\forms\\_form-control.scss",
+      "Id": "C:\\Users\\Elvin Qulizada\\Desktop\\Exam Latest\\Agency\\Agency\\wwwroot\\admin\\scss\\bootstrap\\scss\\forms\\_form-control.scss",
       "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\forms\\_form-control.scss"
     },
     {
-      "Id": "C:\\Users\\Elvin Qulizada\\source\\repos\\Agency\\Agency\\wwwroot\\admin\\scss\\bootstrap\\scss\\forms\\_form-range.scss",
+      "Id": "C:\\Users\\Elvin Qulizada\\Desktop\\Exam Latest\\Agency\\Agency\\wwwroot\\admin\\scss\\bootstrap\\scss\\forms\\_form-range.scss",
       "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\forms\\_form-range.scss"
     },
     {
-      "Id": "C:\\Users\\Elvin Qulizada\\source\\repos\\Agency\\Agency\\wwwroot\\admin\\scss\\bootstrap\\scss\\forms\\_form-select.scss",
+      "Id": "C:\\Users\\Elvin Qulizada\\Desktop\\Exam Latest\\Agency\\Agency\\wwwroot\\admin\\scss\\bootstrap\\scss\\forms\\_form-select.scss",
       "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\forms\\_form-select.scss"
     },
     {
-      "Id": "C:\\Users\\Elvin Qulizada\\source\\repos\\Agency\\Agency\\wwwroot\\admin\\scss\\bootstrap\\scss\\forms\\_form-text.scss",
+      "Id": "C:\\Users\\Elvin Qulizada\\Desktop\\Exam Latest\\Agency\\Agency\\wwwroot\\admin\\scss\\bootstrap\\scss\\forms\\_form-text.scss",
       "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\forms\\_form-text.scss"
     },
     {
-      "Id": "C:\\Users\\Elvin Qulizada\\source\\repos\\Agency\\Agency\\wwwroot\\admin\\scss\\bootstrap\\scss\\forms\\_input-group.scss",
+      "Id": "C:\\Users\\Elvin Qulizada\\Desktop\\Exam Latest\\Agency\\Agency\\wwwroot\\admin\\scss\\bootstrap\\scss\\forms\\_input-group.scss",
       "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\forms\\_input-group.scss"
     },
     {
-      "Id": "C:\\Users\\Elvin Qulizada\\source\\repos\\Agency\\Agency\\wwwroot\\admin\\scss\\bootstrap\\scss\\forms\\_labels.scss",
+      "Id": "C:\\Users\\Elvin Qulizada\\Desktop\\Exam Latest\\Agency\\Agency\\wwwroot\\admin\\scss\\bootstrap\\scss\\forms\\_labels.scss",
       "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\forms\\_labels.scss"
     },
     {
-      "Id": "C:\\Users\\Elvin Qulizada\\source\\repos\\Agency\\Agency\\wwwroot\\admin\\scss\\bootstrap\\scss\\forms\\_validation.scss",
+      "Id": "C:\\Users\\Elvin Qulizada\\Desktop\\Exam Latest\\Agency\\Agency\\wwwroot\\admin\\scss\\bootstrap\\scss\\forms\\_validation.scss",
       "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\forms\\_validation.scss"
     },
     {
-      "Id": "C:\\Users\\Elvin Qulizada\\source\\repos\\Agency\\Agency\\wwwroot\\admin\\scss\\bootstrap\\scss\\helpers\\_clearfix.scss",
+      "Id": "C:\\Users\\Elvin Qulizada\\Desktop\\Exam Latest\\Agency\\Agency\\wwwroot\\admin\\scss\\bootstrap\\scss\\helpers\\_clearfix.scss",
       "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\helpers\\_clearfix.scss"
     },
     {
-      "Id": "C:\\Users\\Elvin Qulizada\\source\\repos\\Agency\\Agency\\wwwroot\\admin\\scss\\bootstrap\\scss\\helpers\\_colored-links.scss",
+      "Id": "C:\\Users\\Elvin Qulizada\\Desktop\\Exam Latest\\Agency\\Agency\\wwwroot\\admin\\scss\\bootstrap\\scss\\helpers\\_colored-links.scss",
       "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\helpers\\_colored-links.scss"
     },
     {
-      "Id": "C:\\Users\\Elvin Qulizada\\source\\repos\\Agency\\Agency\\wwwroot\\admin\\scss\\bootstrap\\scss\\helpers\\_position.scss",
+      "Id": "C:\\Users\\Elvin Qulizada\\Desktop\\Exam Latest\\Agency\\Agency\\wwwroot\\admin\\scss\\bootstrap\\scss\\helpers\\_position.scss",
       "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\helpers\\_position.scss"
     },
     {
-      "Id": "C:\\Users\\Elvin Qulizada\\source\\repos\\Agency\\Agency\\wwwroot\\admin\\scss\\bootstrap\\scss\\helpers\\_ratio.scss",
+      "Id": "C:\\Users\\Elvin Qulizada\\Desktop\\Exam Latest\\Agency\\Agency\\wwwroot\\admin\\scss\\bootstrap\\scss\\helpers\\_ratio.scss",
       "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\helpers\\_ratio.scss"
     },
     {
-      "Id": "C:\\Users\\Elvin Qulizada\\source\\repos\\Agency\\Agency\\wwwroot\\admin\\scss\\bootstrap\\scss\\helpers\\_stretched-link.scss",
+      "Id": "C:\\Users\\Elvin Qulizada\\Desktop\\Exam Latest\\Agency\\Agency\\wwwroot\\admin\\scss\\bootstrap\\scss\\helpers\\_stretched-link.scss",
       "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\helpers\\_stretched-link.scss"
     },
     {
-      "Id": "C:\\Users\\Elvin Qulizada\\source\\repos\\Agency\\Agency\\wwwroot\\admin\\scss\\bootstrap\\scss\\helpers\\_text-truncation.scss",
+      "Id": "C:\\Users\\Elvin Qulizada\\Desktop\\Exam Latest\\Agency\\Agency\\wwwroot\\admin\\scss\\bootstrap\\scss\\helpers\\_text-truncation.scss",
       "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\helpers\\_text-truncation.scss"
     },
     {
-      "Id": "C:\\Users\\Elvin Qulizada\\source\\repos\\Agency\\Agency\\wwwroot\\admin\\scss\\bootstrap\\scss\\helpers\\_visually-hidden.scss",
+      "Id": "C:\\Users\\Elvin Qulizada\\Desktop\\Exam Latest\\Agency\\Agency\\wwwroot\\admin\\scss\\bootstrap\\scss\\helpers\\_visually-hidden.scss",
       "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\helpers\\_visually-hidden.scss"
     },
     {
-      "Id": "C:\\Users\\Elvin Qulizada\\source\\repos\\Agency\\Agency\\wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_alert.scss",
+      "Id": "C:\\Users\\Elvin Qulizada\\Desktop\\Exam Latest\\Agency\\Agency\\wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_alert.scss",
       "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\mixins\\_alert.scss"
     },
     {
-      "Id": "C:\\Users\\Elvin Qulizada\\source\\repos\\Agency\\Agency\\wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss",
+      "Id": "C:\\Users\\Elvin Qulizada\\Desktop\\Exam Latest\\Agency\\Agency\\wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss",
       "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss"
     },
     {
-      "Id": "C:\\Users\\Elvin Qulizada\\source\\repos\\Agency\\Agency\\wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss",
+      "Id": "C:\\Users\\Elvin Qulizada\\Desktop\\Exam Latest\\Agency\\Agency\\wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss",
       "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss"
     },
     {
-      "Id": "C:\\Users\\Elvin Qulizada\\source\\repos\\Agency\\Agency\\wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss",
+      "Id": "C:\\Users\\Elvin Qulizada\\Desktop\\Exam Latest\\Agency\\Agency\\wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss",
       "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss"
     },
     {
-      "Id": "C:\\Users\\Elvin Qulizada\\source\\repos\\Agency\\Agency\\wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_buttons.scss",
+      "Id": "C:\\Users\\Elvin Qulizada\\Desktop\\Exam Latest\\Agency\\Agency\\wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_buttons.scss",
       "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\mixins\\_buttons.scss"
     },
     {
-      "Id": "C:\\Users\\Elvin Qulizada\\source\\repos\\Agency\\Agency\\wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_caret.scss",
+      "Id": "C:\\Users\\Elvin Qulizada\\Desktop\\Exam Latest\\Agency\\Agency\\wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_caret.scss",
       "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\mixins\\_caret.scss"
     },
     {
-      "Id": "C:\\Users\\Elvin Qulizada\\source\\repos\\Agency\\Agency\\wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss",
+      "Id": "C:\\Users\\Elvin Qulizada\\Desktop\\Exam Latest\\Agency\\Agency\\wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss",
       "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss"
     },
     {
-      "Id": "C:\\Users\\Elvin Qulizada\\source\\repos\\Agency\\Agency\\wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_color-scheme.scss",
+      "Id": "C:\\Users\\Elvin Qulizada\\Desktop\\Exam Latest\\Agency\\Agency\\wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_color-scheme.scss",
       "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\mixins\\_color-scheme.scss"
     },
     {
-      "Id": "C:\\Users\\Elvin Qulizada\\source\\repos\\Agency\\Agency\\wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_container.scss",
+      "Id": "C:\\Users\\Elvin Qulizada\\Desktop\\Exam Latest\\Agency\\Agency\\wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_container.scss",
       "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\mixins\\_container.scss"
     },
     {
-      "Id": "C:\\Users\\Elvin Qulizada\\source\\repos\\Agency\\Agency\\wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss",
+      "Id": "C:\\Users\\Elvin Qulizada\\Desktop\\Exam Latest\\Agency\\Agency\\wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss",
       "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss"
     },
     {
-      "Id": "C:\\Users\\Elvin Qulizada\\source\\repos\\Agency\\Agency\\wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_forms.scss",
+      "Id": "C:\\Users\\Elvin Qulizada\\Desktop\\Exam Latest\\Agency\\Agency\\wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_forms.scss",
       "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\mixins\\_forms.scss"
     },
     {
-      "Id": "C:\\Users\\Elvin Qulizada\\source\\repos\\Agency\\Agency\\wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_gradients.scss",
+      "Id": "C:\\Users\\Elvin Qulizada\\Desktop\\Exam Latest\\Agency\\Agency\\wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_gradients.scss",
       "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\mixins\\_gradients.scss"
     },
     {
-      "Id": "C:\\Users\\Elvin Qulizada\\source\\repos\\Agency\\Agency\\wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_grid.scss",
+      "Id": "C:\\Users\\Elvin Qulizada\\Desktop\\Exam Latest\\Agency\\Agency\\wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_grid.scss",
       "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\mixins\\_grid.scss"
     },
     {
-      "Id": "C:\\Users\\Elvin Qulizada\\source\\repos\\Agency\\Agency\\wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_image.scss",
+      "Id": "C:\\Users\\Elvin Qulizada\\Desktop\\Exam Latest\\Agency\\Agency\\wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_image.scss",
       "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\mixins\\_image.scss"
     },
     {
-      "Id": "C:\\Users\\Elvin Qulizada\\source\\repos\\Agency\\Agency\\wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_list-group.scss",
+      "Id": "C:\\Users\\Elvin Qulizada\\Desktop\\Exam Latest\\Agency\\Agency\\wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_list-group.scss",
       "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\mixins\\_list-group.scss"
     },
     {
-      "Id": "C:\\Users\\Elvin Qulizada\\source\\repos\\Agency\\Agency\\wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_lists.scss",
+      "Id": "C:\\Users\\Elvin Qulizada\\Desktop\\Exam Latest\\Agency\\Agency\\wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_lists.scss",
       "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\mixins\\_lists.scss"
     },
     {
-      "Id": "C:\\Users\\Elvin Qulizada\\source\\repos\\Agency\\Agency\\wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_pagination.scss",
+      "Id": "C:\\Users\\Elvin Qulizada\\Desktop\\Exam Latest\\Agency\\Agency\\wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_pagination.scss",
       "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\mixins\\_pagination.scss"
     },
     {
-      "Id": "C:\\Users\\Elvin Qulizada\\source\\repos\\Agency\\Agency\\wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss",
+      "Id": "C:\\Users\\Elvin Qulizada\\Desktop\\Exam Latest\\Agency\\Agency\\wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss",
       "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss"
     },
     {
-      "Id": "C:\\Users\\Elvin Qulizada\\source\\repos\\Agency\\Agency\\wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_resize.scss",
+      "Id": "C:\\Users\\Elvin Qulizada\\Desktop\\Exam Latest\\Agency\\Agency\\wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_resize.scss",
       "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\mixins\\_resize.scss"
     },
     {
-      "Id": "C:\\Users\\Elvin Qulizada\\source\\repos\\Agency\\Agency\\wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_table-variants.scss",
+      "Id": "C:\\Users\\Elvin Qulizada\\Desktop\\Exam Latest\\Agency\\Agency\\wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_table-variants.scss",
       "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\mixins\\_table-variants.scss"
     },
     {
-      "Id": "C:\\Users\\Elvin Qulizada\\source\\repos\\Agency\\Agency\\wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss",
+      "Id": "C:\\Users\\Elvin Qulizada\\Desktop\\Exam Latest\\Agency\\Agency\\wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss",
       "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss"
     },
     {
-      "Id": "C:\\Users\\Elvin Qulizada\\source\\repos\\Agency\\Agency\\wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_transition.scss",
+      "Id": "C:\\Users\\Elvin Qulizada\\Desktop\\Exam Latest\\Agency\\Agency\\wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_transition.scss",
       "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\mixins\\_transition.scss"
     },
     {
-      "Id": "C:\\Users\\Elvin Qulizada\\source\\repos\\Agency\\Agency\\wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_utilities.scss",
+      "Id": "C:\\Users\\Elvin Qulizada\\Desktop\\Exam Latest\\Agency\\Agency\\wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_utilities.scss",
       "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\mixins\\_utilities.scss"
     },
     {
-      "Id": "C:\\Users\\Elvin Qulizada\\source\\repos\\Agency\\Agency\\wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_visually-hidden.scss",
+      "Id": "C:\\Users\\Elvin Qulizada\\Desktop\\Exam Latest\\Agency\\Agency\\wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_visually-hidden.scss",
       "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\mixins\\_visually-hidden.scss"
     },
     {
-      "Id": "C:\\Users\\Elvin Qulizada\\source\\repos\\Agency\\Agency\\wwwroot\\admin\\scss\\bootstrap\\scss\\utilities\\_api.scss",
+      "Id": "C:\\Users\\Elvin Qulizada\\Desktop\\Exam Latest\\Agency\\Agency\\wwwroot\\admin\\scss\\bootstrap\\scss\\utilities\\_api.scss",
       "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\utilities\\_api.scss"
     },
     {
-      "Id": "C:\\Users\\Elvin Qulizada\\source\\repos\\Agency\\Agency\\wwwroot\\admin\\scss\\bootstrap\\scss\\vendor\\_rfs.scss",
+      "Id": "C:\\Users\\Elvin Qulizada\\Desktop\\Exam Latest\\Agency\\Agency\\wwwroot\\admin\\scss\\bootstrap\\scss\\vendor\\_rfs.scss",
       "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\vendor\\_rfs.scss"
     },
     {
-      "Id": "C:\\Users\\Elvin Qulizada\\source\\repos\\Agency\\Agency\\wwwroot\\assets\\css\\agency.css",
+      "Id": "C:\\Users\\Elvin Qulizada\\Desktop\\Exam Latest\\Agency\\Agency\\wwwroot\\assets\\css\\agency.css",
       "PackagePath": "staticwebassets\\assets\\css\\agency.css"
     },
     {
-      "Id": "C:\\Users\\Elvin Qulizada\\source\\repos\\Agency\\Agency\\wwwroot\\assets\\css\\agency.min.css",
+      "Id": "C:\\Users\\Elvin Qulizada\\Desktop\\Exam Latest\\Agency\\Agency\\wwwroot\\assets\\css\\agency.min.css",
       "PackagePath": "staticwebassets\\assets\\css\\agency.min.css"
     },
     {
-      "Id": "C:\\Users\\Elvin Qulizada\\source\\repos\\Agency\\Agency\\wwwroot\\assets\\img\\about\\1.jpg",
+      "Id": "C:\\Users\\Elvin Qulizada\\Desktop\\Exam Latest\\Agency\\Agency\\wwwroot\\assets\\img\\about\\1.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\about\\1.jpg"
     },
     {
-      "Id": "C:\\Users\\Elvin Qulizada\\source\\repos\\Agency\\Agency\\wwwroot\\assets\\img\\about\\2.jpg",
+      "Id": "C:\\Users\\Elvin Qulizada\\Desktop\\Exam Latest\\Agency\\Agency\\wwwroot\\assets\\img\\about\\2.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\about\\2.jpg"
     },
     {
-      "Id": "C:\\Users\\Elvin Qulizada\\source\\repos\\Agency\\Agency\\wwwroot\\assets\\img\\about\\3.jpg",
+      "Id": "C:\\Users\\Elvin Qulizada\\Desktop\\Exam Latest\\Agency\\Agency\\wwwroot\\assets\\img\\about\\3.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\about\\3.jpg"
     },
     {
-      "Id": "C:\\Users\\Elvin Qulizada\\source\\repos\\Agency\\Agency\\wwwroot\\assets\\img\\about\\4.jpg",
+      "Id": "C:\\Users\\Elvin Qulizada\\Desktop\\Exam Latest\\Agency\\Agency\\wwwroot\\assets\\img\\about\\4.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\about\\4.jpg"
     },
     {
-      "Id": "C:\\Users\\Elvin Qulizada\\source\\repos\\Agency\\Agency\\wwwroot\\assets\\img\\header-bg.jpg",
+      "Id": "C:\\Users\\Elvin Qulizada\\Desktop\\Exam Latest\\Agency\\Agency\\wwwroot\\assets\\img\\header-bg.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\header-bg.jpg"
     },
     {
-      "Id": "C:\\Users\\Elvin Qulizada\\source\\repos\\Agency\\Agency\\wwwroot\\assets\\img\\logos\\creative-market.jpg",
+      "Id": "C:\\Users\\Elvin Qulizada\\Desktop\\Exam Latest\\Agency\\Agency\\wwwroot\\assets\\img\\logos\\creative-market.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\logos\\creative-market.jpg"
     },
     {
-      "Id": "C:\\Users\\Elvin Qulizada\\source\\repos\\Agency\\Agency\\wwwroot\\assets\\img\\logos\\designmodo.jpg",
+      "Id": "C:\\Users\\Elvin Qulizada\\Desktop\\Exam Latest\\Agency\\Agency\\wwwroot\\assets\\img\\logos\\designmodo.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\logos\\designmodo.jpg"
     },
     {
-      "Id": "C:\\Users\\Elvin Qulizada\\source\\repos\\Agency\\Agency\\wwwroot\\assets\\img\\logos\\envato.jpg",
+      "Id": "C:\\Users\\Elvin Qulizada\\Desktop\\Exam Latest\\Agency\\Agency\\wwwroot\\assets\\img\\logos\\envato.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\logos\\envato.jpg"
     },
     {
-      "Id": "C:\\Users\\Elvin Qulizada\\source\\repos\\Agency\\Agency\\wwwroot\\assets\\img\\logos\\themeforest.jpg",
+      "Id": "C:\\Users\\Elvin Qulizada\\Desktop\\Exam Latest\\Agency\\Agency\\wwwroot\\assets\\img\\logos\\themeforest.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\logos\\themeforest.jpg"
     },
     {
-      "Id": "C:\\Users\\Elvin Qulizada\\source\\repos\\Agency\\Agency\\wwwroot\\assets\\img\\map-image.png",
+      "Id": "C:\\Users\\Elvin Qulizada\\Desktop\\Exam Latest\\Agency\\Agency\\wwwroot\\assets\\img\\map-image.png",
       "PackagePath": "staticwebassets\\assets\\img\\map-image.png"
     },
     {
-      "Id": "C:\\Users\\Elvin Qulizada\\source\\repos\\Agency\\Agency\\wwwroot\\assets\\img\\portfolio\\dreams-preview.jpg",
+      "Id": "C:\\Users\\Elvin Qulizada\\Desktop\\Exam Latest\\Agency\\Agency\\wwwroot\\assets\\img\\portfolio\\dreams-preview.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\portfolio\\dreams-preview.jpg"
     },
     {
-      "Id": "C:\\Users\\Elvin Qulizada\\source\\repos\\Agency\\Agency\\wwwroot\\assets\\img\\portfolio\\dreams.jpg",
+      "Id": "C:\\Users\\Elvin Qulizada\\Desktop\\Exam Latest\\Agency\\Agency\\wwwroot\\assets\\img\\portfolio\\dreams.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\portfolio\\dreams.jpg"
     },
     {
-      "Id": "C:\\Users\\Elvin Qulizada\\source\\repos\\Agency\\Agency\\wwwroot\\assets\\img\\portfolio\\escape-preview.jpg",
+      "Id": "C:\\Users\\Elvin Qulizada\\Desktop\\Exam Latest\\Agency\\Agency\\wwwroot\\assets\\img\\portfolio\\escape-preview.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\portfolio\\escape-preview.jpg"
     },
     {
-      "Id": "C:\\Users\\Elvin Qulizada\\source\\repos\\Agency\\Agency\\wwwroot\\assets\\img\\portfolio\\escape.jpg",
+      "Id": "C:\\Users\\Elvin Qulizada\\Desktop\\Exam Latest\\Agency\\Agency\\wwwroot\\assets\\img\\portfolio\\escape.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\portfolio\\escape.jpg"
     },
     {
-      "Id": "C:\\Users\\Elvin Qulizada\\source\\repos\\Agency\\Agency\\wwwroot\\assets\\img\\portfolio\\golden-preview.jpg",
+      "Id": "C:\\Users\\Elvin Qulizada\\Desktop\\Exam Latest\\Agency\\Agency\\wwwroot\\assets\\img\\portfolio\\golden-preview.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\portfolio\\golden-preview.jpg"
     },
     {
-      "Id": "C:\\Users\\Elvin Qulizada\\source\\repos\\Agency\\Agency\\wwwroot\\assets\\img\\portfolio\\golden.jpg",
+      "Id": "C:\\Users\\Elvin Qulizada\\Desktop\\Exam Latest\\Agency\\Agency\\wwwroot\\assets\\img\\portfolio\\golden.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\portfolio\\golden.jpg"
     },
     {
-      "Id": "C:\\Users\\Elvin Qulizada\\source\\repos\\Agency\\Agency\\wwwroot\\assets\\img\\portfolio\\roundicons-free.jpg",
+      "Id": "C:\\Users\\Elvin Qulizada\\Desktop\\Exam Latest\\Agency\\Agency\\wwwroot\\assets\\img\\portfolio\\roundicons-free.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\portfolio\\roundicons-free.jpg"
     },
     {
-      "Id": "C:\\Users\\Elvin Qulizada\\source\\repos\\Agency\\Agency\\wwwroot\\assets\\img\\portfolio\\roundicons.jpg",
+      "Id": "C:\\Users\\Elvin Qulizada\\Desktop\\Exam Latest\\Agency\\Agency\\wwwroot\\assets\\img\\portfolio\\roundicons.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\portfolio\\roundicons.jpg"
     },
     {
-      "Id": "C:\\Users\\Elvin Qulizada\\source\\repos\\Agency\\Agency\\wwwroot\\assets\\img\\portfolio\\startup-framework-preview.jpg",
+      "Id": "C:\\Users\\Elvin Qulizada\\Desktop\\Exam Latest\\Agency\\Agency\\wwwroot\\assets\\img\\portfolio\\startup-framework-preview.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\portfolio\\startup-framework-preview.jpg"
     },
     {
-      "Id": "C:\\Users\\Elvin Qulizada\\source\\repos\\Agency\\Agency\\wwwroot\\assets\\img\\portfolio\\startup-framework.jpg",
+      "Id": "C:\\Users\\Elvin Qulizada\\Desktop\\Exam Latest\\Agency\\Agency\\wwwroot\\assets\\img\\portfolio\\startup-framework.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\portfolio\\startup-framework.jpg"
     },
     {
-      "Id": "C:\\Users\\Elvin Qulizada\\source\\repos\\Agency\\Agency\\wwwroot\\assets\\img\\portfolio\\treehouse-preview.jpg",
+      "Id": "C:\\Users\\Elvin Qulizada\\Desktop\\Exam Latest\\Agency\\Agency\\wwwroot\\assets\\img\\portfolio\\treehouse-preview.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\portfolio\\treehouse-preview.jpg"
     },
     {
-      "Id": "C:\\Users\\Elvin Qulizada\\source\\repos\\Agency\\Agency\\wwwroot\\assets\\img\\portfolio\\treehouse.jpg",
+      "Id": "C:\\Users\\Elvin Qulizada\\Desktop\\Exam Latest\\Agency\\Agency\\wwwroot\\assets\\img\\portfolio\\treehouse.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\portfolio\\treehouse.jpg"
     },
     {
-      "Id": "C:\\Users\\Elvin Qulizada\\source\\repos\\Agency\\Agency\\wwwroot\\assets\\img\\team\\1.jpg",
+      "Id": "C:\\Users\\Elvin Qulizada\\Desktop\\Exam Latest\\Agency\\Agency\\wwwroot\\assets\\img\\team\\1.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\team\\1.jpg"
     },
     {
-      "Id": "C:\\Users\\Elvin Qulizada\\source\\repos\\Agency\\Agency\\wwwroot\\assets\\img\\team\\2.jpg",
+      "Id": "C:\\Users\\Elvin Qulizada\\Desktop\\Exam Latest\\Agency\\Agency\\wwwroot\\assets\\img\\team\\2.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\team\\2.jpg"
     },
     {
-      "Id": "C:\\Users\\Elvin Qulizada\\source\\repos\\Agency\\Agency\\wwwroot\\assets\\img\\team\\3.jpg",
+      "Id": "C:\\Users\\Elvin Qulizada\\Desktop\\Exam Latest\\Agency\\Agency\\wwwroot\\assets\\img\\team\\3.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\team\\3.jpg"
     },
     {
-      "Id": "C:\\Users\\Elvin Qulizada\\source\\repos\\Agency\\Agency\\wwwroot\\assets\\js\\agency.js",
+      "Id": "C:\\Users\\Elvin Qulizada\\Desktop\\Exam Latest\\Agency\\Agency\\wwwroot\\assets\\js\\agency.js",
       "PackagePath": "staticwebassets\\assets\\js\\agency.js"
     },
     {
-      "Id": "C:\\Users\\Elvin Qulizada\\source\\repos\\Agency\\Agency\\wwwroot\\assets\\js\\agency.min.js",
+      "Id": "C:\\Users\\Elvin Qulizada\\Desktop\\Exam Latest\\Agency\\Agency\\wwwroot\\assets\\js\\agency.min.js",
       "PackagePath": "staticwebassets\\assets\\js\\agency.min.js"
     },
     {
-      "Id": "C:\\Users\\Elvin Qulizada\\source\\repos\\Agency\\Agency\\wwwroot\\assets\\js\\contact_me.js",
+      "Id": "C:\\Users\\Elvin Qulizada\\Desktop\\Exam Latest\\Agency\\Agency\\wwwroot\\assets\\js\\contact_me.js",
       "PackagePath": "staticwebassets\\assets\\js\\contact_me.js"
     },
     {
-      "Id": "C:\\Users\\Elvin Qulizada\\source\\repos\\Agency\\Agency\\wwwroot\\assets\\js\\jqBootstrapValidation.js",
+      "Id": "C:\\Users\\Elvin Qulizada\\Desktop\\Exam Latest\\Agency\\Agency\\wwwroot\\assets\\js\\jqBootstrapValidation.js",
       "PackagePath": "staticwebassets\\assets\\js\\jqBootstrapValidation.js"
     },
     {
-      "Id": "C:\\Users\\Elvin Qulizada\\source\\repos\\Agency\\Agency\\wwwroot\\assets\\less\\agency.less",
+      "Id": "C:\\Users\\Elvin Qulizada\\Desktop\\Exam Latest\\Agency\\Agency\\wwwroot\\assets\\less\\agency.less",
       "PackagePath": "staticwebassets\\assets\\less\\agency.less"
     },
     {
-      "Id": "C:\\Users\\Elvin Qulizada\\source\\repos\\Agency\\Agency\\wwwroot\\assets\\less\\mixins.less",
+      "Id": "C:\\Users\\Elvin Qulizada\\Desktop\\Exam Latest\\Agency\\Agency\\wwwroot\\assets\\less\\mixins.less",
       "PackagePath": "staticwebassets\\assets\\less\\mixins.less"
     },
     {
-      "Id": "C:\\Users\\Elvin Qulizada\\source\\repos\\Agency\\Agency\\wwwroot\\assets\\less\\variables.less",
+      "Id": "C:\\Users\\Elvin Qulizada\\Desktop\\Exam Latest\\Agency\\Agency\\wwwroot\\assets\\less\\variables.less",
       "PackagePath": "staticwebassets\\assets\\less\\variables.less"
     },
     {
-      "Id": "C:\\Users\\Elvin Qulizada\\source\\repos\\Agency\\Agency\\wwwroot\\assets\\mail\\contact_me.php",
+      "Id": "C:\\Users\\Elvin Qulizada\\Desktop\\Exam Latest\\Agency\\Agency\\wwwroot\\assets\\mail\\contact_me.php",
       "PackagePath": "staticwebassets\\assets\\mail\\contact_me.php"
     },
     {
-      "Id": "C:\\Users\\Elvin Qulizada\\source\\repos\\Agency\\Agency\\wwwroot\\assets\\scss\\_mixins.scss",
+      "Id": "C:\\Users\\Elvin Qulizada\\Desktop\\Exam Latest\\Agency\\Agency\\wwwroot\\assets\\scss\\_mixins.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\_mixins.scss"
     },
     {
-      "Id": "C:\\Users\\Elvin Qulizada\\source\\repos\\Agency\\Agency\\wwwroot\\assets\\scss\\_variables.scss",
+      "Id": "C:\\Users\\Elvin Qulizada\\Desktop\\Exam Latest\\Agency\\Agency\\wwwroot\\assets\\scss\\_variables.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\_variables.scss"
     },
     {
-      "Id": "C:\\Users\\Elvin Qulizada\\source\\repos\\Agency\\Agency\\wwwroot\\assets\\scss\\agency.scss",
+      "Id": "C:\\Users\\Elvin Qulizada\\Desktop\\Exam Latest\\Agency\\Agency\\wwwroot\\assets\\scss\\agency.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\agency.scss"
     },
     {
-      "Id": "C:\\Users\\Elvin Qulizada\\source\\repos\\Agency\\Agency\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.css",
+      "Id": "C:\\Users\\Elvin Qulizada\\Desktop\\Exam Latest\\Agency\\Agency\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap.css"
     },
     {
-      "Id": "C:\\Users\\Elvin Qulizada\\source\\repos\\Agency\\Agency\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.min.css",
+      "Id": "C:\\Users\\Elvin Qulizada\\Desktop\\Exam Latest\\Agency\\Agency\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\Elvin Qulizada\\source\\repos\\Agency\\Agency\\wwwroot\\assets\\vendor\\bootstrap\\fonts\\glyphicons-halflings-regular.eot",
+      "Id": "C:\\Users\\Elvin Qulizada\\Desktop\\Exam Latest\\Agency\\Agency\\wwwroot\\assets\\vendor\\bootstrap\\fonts\\glyphicons-halflings-regular.eot",
       "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\fonts\\glyphicons-halflings-regular.eot"
     },
     {
-      "Id": "C:\\Users\\Elvin Qulizada\\source\\repos\\Agency\\Agency\\wwwroot\\assets\\vendor\\bootstrap\\fonts\\glyphicons-halflings-regular.svg",
+      "Id": "C:\\Users\\Elvin Qulizada\\Desktop\\Exam Latest\\Agency\\Agency\\wwwroot\\assets\\vendor\\bootstrap\\fonts\\glyphicons-halflings-regular.svg",
       "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\fonts\\glyphicons-halflings-regular.svg"
     },
     {
-      "Id": "C:\\Users\\Elvin Qulizada\\source\\repos\\Agency\\Agency\\wwwroot\\assets\\vendor\\bootstrap\\fonts\\glyphicons-halflings-regular.ttf",
+      "Id": "C:\\Users\\Elvin Qulizada\\Desktop\\Exam Latest\\Agency\\Agency\\wwwroot\\assets\\vendor\\bootstrap\\fonts\\glyphicons-halflings-regular.ttf",
       "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\fonts\\glyphicons-halflings-regular.ttf"
     },
     {
-      "Id": "C:\\Users\\Elvin Qulizada\\source\\repos\\Agency\\Agency\\wwwroot\\assets\\vendor\\bootstrap\\fonts\\glyphicons-halflings-regular.woff",
+      "Id": "C:\\Users\\Elvin Qulizada\\Desktop\\Exam Latest\\Agency\\Agency\\wwwroot\\assets\\vendor\\bootstrap\\fonts\\glyphicons-halflings-regular.woff",
       "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\fonts\\glyphicons-halflings-regular.woff"
     },
     {
-      "Id": "C:\\Users\\Elvin Qulizada\\source\\repos\\Agency\\Agency\\wwwroot\\assets\\vendor\\bootstrap\\fonts\\glyphicons-halflings-regular.woff2",
+      "Id": "C:\\Users\\Elvin Qulizada\\Desktop\\Exam Latest\\Agency\\Agency\\wwwroot\\assets\\vendor\\bootstrap\\fonts\\glyphicons-halflings-regular.woff2",
       "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\fonts\\glyphicons-halflings-regular.woff2"
     },
     {
-      "Id": "C:\\Users\\Elvin Qulizada\\source\\repos\\Agency\\Agency\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.js",
+      "Id": "C:\\Users\\Elvin Qulizada\\Desktop\\Exam Latest\\Agency\\Agency\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.js"
     },
     {
-      "Id": "C:\\Users\\Elvin Qulizada\\source\\repos\\Agency\\Agency\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.min.js",
+      "Id": "C:\\Users\\Elvin Qulizada\\Desktop\\Exam Latest\\Agency\\Agency\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.min.js"
     },
     {
-      "Id": "C:\\Users\\Elvin Qulizada\\source\\repos\\Agency\\Agency\\wwwroot\\assets\\vendor\\font-awesome\\css\\font-awesome.css",
+      "Id": "C:\\Users\\Elvin Qulizada\\Desktop\\Exam Latest\\Agency\\Agency\\wwwroot\\assets\\vendor\\font-awesome\\css\\font-awesome.css",
       "PackagePath": "staticwebassets\\assets\\vendor\\font-awesome\\css\\font-awesome.css"
     },
     {
-      "Id": "C:\\Users\\Elvin Qulizada\\source\\repos\\Agency\\Agency\\wwwroot\\assets\\vendor\\font-awesome\\css\\font-awesome.min.css",
+      "Id": "C:\\Users\\Elvin Qulizada\\Desktop\\Exam Latest\\Agency\\Agency\\wwwroot\\assets\\vendor\\font-awesome\\css\\font-awesome.min.css",
       "PackagePath": "staticwebassets\\assets\\vendor\\font-awesome\\css\\font-awesome.min.css"
     },
     {
-      "Id": "C:\\Users\\Elvin Qulizada\\source\\repos\\Agency\\Agency\\wwwroot\\assets\\vendor\\font-awesome\\fonts\\FontAwesome.otf",
+      "Id": "C:\\Users\\Elvin Qulizada\\Desktop\\Exam Latest\\Agency\\Agency\\wwwroot\\assets\\vendor\\font-awesome\\fonts\\FontAwesome.otf",
       "PackagePath": "staticwebassets\\assets\\vendor\\font-awesome\\fonts\\FontAwesome.otf"
     },
     {
-      "Id": "C:\\Users\\Elvin Qulizada\\source\\repos\\Agency\\Agency\\wwwroot\\assets\\vendor\\font-awesome\\fonts\\fontawesome-webfont.eot",
+      "Id": "C:\\Users\\Elvin Qulizada\\Desktop\\Exam Latest\\Agency\\Agency\\wwwroot\\assets\\vendor\\font-awesome\\fonts\\fontawesome-webfont.eot",
       "PackagePath": "staticwebassets\\assets\\vendor\\font-awesome\\fonts\\fontawesome-webfont.eot"
     },
     {
-      "Id": "C:\\Users\\Elvin Qulizada\\source\\repos\\Agency\\Agency\\wwwroot\\assets\\vendor\\font-awesome\\fonts\\fontawesome-webfont.svg",
+      "Id": "C:\\Users\\Elvin Qulizada\\Desktop\\Exam Latest\\Agency\\Agency\\wwwroot\\assets\\vendor\\font-awesome\\fonts\\fontawesome-webfont.svg",
       "PackagePath": "staticwebassets\\assets\\vendor\\font-awesome\\fonts\\fontawesome-webfont.svg"
     },
     {
-      "Id": "C:\\Users\\Elvin Qulizada\\source\\repos\\Agency\\Agency\\wwwroot\\assets\\vendor\\font-awesome\\fonts\\fontawesome-webfont.ttf",
+      "Id": "C:\\Users\\Elvin Qulizada\\Desktop\\Exam Latest\\Agency\\Agency\\wwwroot\\assets\\vendor\\font-awesome\\fonts\\fontawesome-webfont.ttf",
       "PackagePath": "staticwebassets\\assets\\vendor\\font-awesome\\fonts\\fontawesome-webfont.ttf"
     },
     {
-      "Id": "C:\\Users\\Elvin Qulizada\\source\\repos\\Agency\\Agency\\wwwroot\\assets\\vendor\\font-awesome\\fonts\\fontawesome-webfont.woff",
+      "Id": "C:\\Users\\Elvin Qulizada\\Desktop\\Exam Latest\\Agency\\Agency\\wwwroot\\assets\\vendor\\font-awesome\\fonts\\fontawesome-webfont.woff",
       "PackagePath": "staticwebassets\\assets\\vendor\\font-awesome\\fonts\\fontawesome-webfont.woff"
     },
     {
-      "Id": "C:\\Users\\Elvin Qulizada\\source\\repos\\Agency\\Agency\\wwwroot\\assets\\vendor\\font-awesome\\fonts\\fontawesome-webfont.woff2",
+      "Id": "C:\\Users\\Elvin Qulizada\\Desktop\\Exam Latest\\Agency\\Agency\\wwwroot\\assets\\vendor\\font-awesome\\fonts\\fontawesome-webfont.woff2",
       "PackagePath": "staticwebassets\\assets\\vendor\\font-awesome\\fonts\\fontawesome-webfont.woff2"
     },
     {
-      "Id": "C:\\Users\\Elvin Qulizada\\source\\repos\\Agency\\Agency\\wwwroot\\assets\\vendor\\font-awesome\\less\\animated.less",
+      "Id": "C:\\Users\\Elvin Qulizada\\Desktop\\Exam Latest\\Agency\\Agency\\wwwroot\\assets\\vendor\\font-awesome\\less\\animated.less",
       "PackagePath": "staticwebassets\\assets\\vendor\\font-awesome\\less\\animated.less"
     },
     {
-      "Id": "C:\\Users\\Elvin Qulizada\\source\\repos\\Agency\\Agency\\wwwroot\\assets\\vendor\\font-awesome\\less\\bordered-pulled.less",
+      "Id": "C:\\Users\\Elvin Qulizada\\Desktop\\Exam Latest\\Agency\\Agency\\wwwroot\\assets\\vendor\\font-awesome\\less\\bordered-pulled.less",
       "PackagePath": "staticwebassets\\assets\\vendor\\font-awesome\\less\\bordered-pulled.less"
     },
     {
-      "Id": "C:\\Users\\Elvin Qulizada\\source\\repos\\Agency\\Agency\\wwwroot\\assets\\vendor\\font-awesome\\less\\core.less",
+      "Id": "C:\\Users\\Elvin Qulizada\\Desktop\\Exam Latest\\Agency\\Agency\\wwwroot\\assets\\vendor\\font-awesome\\less\\core.less",
       "PackagePath": "staticwebassets\\assets\\vendor\\font-awesome\\less\\core.less"
     },
     {
-      "Id": "C:\\Users\\Elvin Qulizada\\source\\repos\\Agency\\Agency\\wwwroot\\assets\\vendor\\font-awesome\\less\\fixed-width.less",
+      "Id": "C:\\Users\\Elvin Qulizada\\Desktop\\Exam Latest\\Agency\\Agency\\wwwroot\\assets\\vendor\\font-awesome\\less\\fixed-width.less",
       "PackagePath": "staticwebassets\\assets\\vendor\\font-awesome\\less\\fixed-width.less"
     },
     {
-      "Id": "C:\\Users\\Elvin Qulizada\\source\\repos\\Agency\\Agency\\wwwroot\\assets\\vendor\\font-awesome\\less\\font-awesome.less",
+      "Id": "C:\\Users\\Elvin Qulizada\\Desktop\\Exam Latest\\Agency\\Agency\\wwwroot\\assets\\vendor\\font-awesome\\less\\font-awesome.less",
       "PackagePath": "staticwebassets\\assets\\vendor\\font-awesome\\less\\font-awesome.less"
     },
     {
-      "Id": "C:\\Users\\Elvin Qulizada\\source\\repos\\Agency\\Agency\\wwwroot\\assets\\vendor\\font-awesome\\less\\icons.less",
+      "Id": "C:\\Users\\Elvin Qulizada\\Desktop\\Exam Latest\\Agency\\Agency\\wwwroot\\assets\\vendor\\font-awesome\\less\\icons.less",
       "PackagePath": "staticwebassets\\assets\\vendor\\font-awesome\\less\\icons.less"
     },
     {
-      "Id": "C:\\Users\\Elvin Qulizada\\source\\repos\\Agency\\Agency\\wwwroot\\assets\\vendor\\font-awesome\\less\\larger.less",
+      "Id": "C:\\Users\\Elvin Qulizada\\Desktop\\Exam Latest\\Agency\\Agency\\wwwroot\\assets\\vendor\\font-awesome\\less\\larger.less",
       "PackagePath": "staticwebassets\\assets\\vendor\\font-awesome\\less\\larger.less"
     },
     {
-      "Id": "C:\\Users\\Elvin Qulizada\\source\\repos\\Agency\\Agency\\wwwroot\\assets\\vendor\\font-awesome\\less\\list.less",
+      "Id": "C:\\Users\\Elvin Qulizada\\Desktop\\Exam Latest\\Agency\\Agency\\wwwroot\\assets\\vendor\\font-awesome\\less\\list.less",
       "PackagePath": "staticwebassets\\assets\\vendor\\font-awesome\\less\\list.less"
     },
     {
-      "Id": "C:\\Users\\Elvin Qulizada\\source\\repos\\Agency\\Agency\\wwwroot\\assets\\vendor\\font-awesome\\less\\mixins.less",
+      "Id": "C:\\Users\\Elvin Qulizada\\Desktop\\Exam Latest\\Agency\\Agency\\wwwroot\\assets\\vendor\\font-awesome\\less\\mixins.less",
       "PackagePath": "staticwebassets\\assets\\vendor\\font-awesome\\less\\mixins.less"
     },
     {
-      "Id": "C:\\Users\\Elvin Qulizada\\source\\repos\\Agency\\Agency\\wwwroot\\assets\\vendor\\font-awesome\\less\\path.less",
+      "Id": "C:\\Users\\Elvin Qulizada\\Desktop\\Exam Latest\\Agency\\Agency\\wwwroot\\assets\\vendor\\font-awesome\\less\\path.less",
       "PackagePath": "staticwebassets\\assets\\vendor\\font-awesome\\less\\path.less"
     },
     {
-      "Id": "C:\\Users\\Elvin Qulizada\\source\\repos\\Agency\\Agency\\wwwroot\\assets\\vendor\\font-awesome\\less\\rotated-flipped.less",
+      "Id": "C:\\Users\\Elvin Qulizada\\Desktop\\Exam Latest\\Agency\\Agency\\wwwroot\\assets\\vendor\\font-awesome\\less\\rotated-flipped.less",
       "PackagePath": "staticwebassets\\assets\\vendor\\font-awesome\\less\\rotated-flipped.less"
     },
     {
-      "Id": "C:\\Users\\Elvin Qulizada\\source\\repos\\Agency\\Agency\\wwwroot\\assets\\vendor\\font-awesome\\less\\screen-reader.less",
+      "Id": "C:\\Users\\Elvin Qulizada\\Desktop\\Exam Latest\\Agency\\Agency\\wwwroot\\assets\\vendor\\font-awesome\\less\\screen-reader.less",
       "PackagePath": "staticwebassets\\assets\\vendor\\font-awesome\\less\\screen-reader.less"
     },
     {
-      "Id": "C:\\Users\\Elvin Qulizada\\source\\repos\\Agency\\Agency\\wwwroot\\assets\\vendor\\font-awesome\\less\\stacked.less",
+      "Id": "C:\\Users\\Elvin Qulizada\\Desktop\\Exam Latest\\Agency\\Agency\\wwwroot\\assets\\vendor\\font-awesome\\less\\stacked.less",
       "PackagePath": "staticwebassets\\assets\\vendor\\font-awesome\\less\\stacked.less"
     },
     {
-      "Id": "C:\\Users\\Elvin Qulizada\\source\\repos\\Agency\\Agency\\wwwroot\\assets\\vendor\\font-awesome\\less\\variables.less",
+      "Id": "C:\\Users\\Elvin Qulizada\\Desktop\\Exam Latest\\Agency\\Agency\\wwwroot\\assets\\vendor\\font-awesome\\less\\variables.less",
       "PackagePath": "staticwebassets\\assets\\vendor\\font-awesome\\less\\variables.less"
     },
     {
-      "Id": "C:\\Users\\Elvin Qulizada\\source\\repos\\Agency\\Agency\\wwwroot\\assets\\vendor\\font-awesome\\scss\\_animated.scss",
+      "Id": "C:\\Users\\Elvin Qulizada\\Desktop\\Exam Latest\\Agency\\Agency\\wwwroot\\assets\\vendor\\font-awesome\\scss\\_animated.scss",
       "PackagePath": "staticwebassets\\assets\\vendor\\font-awesome\\scss\\_animated.scss"
     },
     {
-      "Id": "C:\\Users\\Elvin Qulizada\\source\\repos\\Agency\\Agency\\wwwroot\\assets\\vendor\\font-awesome\\scss\\_bordered-pulled.scss",
+      "Id": "C:\\Users\\Elvin Qulizada\\Desktop\\Exam Latest\\Agency\\Agency\\wwwroot\\assets\\vendor\\font-awesome\\scss\\_bordered-pulled.scss",
       "PackagePath": "staticwebassets\\assets\\vendor\\font-awesome\\scss\\_bordered-pulled.scss"
     },
     {
-      "Id": "C:\\Users\\Elvin Qulizada\\source\\repos\\Agency\\Agency\\wwwroot\\assets\\vendor\\font-awesome\\scss\\_core.scss",
+      "Id": "C:\\Users\\Elvin Qulizada\\Desktop\\Exam Latest\\Agency\\Agency\\wwwroot\\assets\\vendor\\font-awesome\\scss\\_core.scss",
       "PackagePath": "staticwebassets\\assets\\vendor\\font-awesome\\scss\\_core.scss"
     },
     {
-      "Id": "C:\\Users\\Elvin Qulizada\\source\\repos\\Agency\\Agency\\wwwroot\\assets\\vendor\\font-awesome\\scss\\_fixed-width.scss",
+      "Id": "C:\\Users\\Elvin Qulizada\\Desktop\\Exam Latest\\Agency\\Agency\\wwwroot\\assets\\vendor\\font-awesome\\scss\\_fixed-width.scss",
       "PackagePath": "staticwebassets\\assets\\vendor\\font-awesome\\scss\\_fixed-width.scss"
     },
     {
-      "Id": "C:\\Users\\Elvin Qulizada\\source\\repos\\Agency\\Agency\\wwwroot\\assets\\vendor\\font-awesome\\scss\\_icons.scss",
+      "Id": "C:\\Users\\Elvin Qulizada\\Desktop\\Exam Latest\\Agency\\Agency\\wwwroot\\assets\\vendor\\font-awesome\\scss\\_icons.scss",
       "PackagePath": "staticwebassets\\assets\\vendor\\font-awesome\\scss\\_icons.scss"
     },
     {
-      "Id": "C:\\Users\\Elvin Qulizada\\source\\repos\\Agency\\Agency\\wwwroot\\assets\\vendor\\font-awesome\\scss\\_larger.scss",
+      "Id": "C:\\Users\\Elvin Qulizada\\Desktop\\Exam Latest\\Agency\\Agency\\wwwroot\\assets\\vendor\\font-awesome\\scss\\_larger.scss",
       "PackagePath": "staticwebassets\\assets\\vendor\\font-awesome\\scss\\_larger.scss"
     },
     {
-      "Id": "C:\\Users\\Elvin Qulizada\\source\\repos\\Agency\\Agency\\wwwroot\\assets\\vendor\\font-awesome\\scss\\_list.scss",
+      "Id": "C:\\Users\\Elvin Qulizada\\Desktop\\Exam Latest\\Agency\\Agency\\wwwroot\\assets\\vendor\\font-awesome\\scss\\_list.scss",
       "PackagePath": "staticwebassets\\assets\\vendor\\font-awesome\\scss\\_list.scss"
     },
     {
-      "Id": "C:\\Users\\Elvin Qulizada\\source\\repos\\Agency\\Agency\\wwwroot\\assets\\vendor\\font-awesome\\scss\\_mixins.scss",
+      "Id": "C:\\Users\\Elvin Qulizada\\Desktop\\Exam Latest\\Agency\\Agency\\wwwroot\\assets\\vendor\\font-awesome\\scss\\_mixins.scss",
       "PackagePath": "staticwebassets\\assets\\vendor\\font-awesome\\scss\\_mixins.scss"
     },
     {
-      "Id": "C:\\Users\\Elvin Qulizada\\source\\repos\\Agency\\Agency\\wwwroot\\assets\\vendor\\font-awesome\\scss\\_path.scss",
+      "Id": "C:\\Users\\Elvin Qulizada\\Desktop\\Exam Latest\\Agency\\Agency\\wwwroot\\assets\\vendor\\font-awesome\\scss\\_path.scss",
       "PackagePath": "staticwebassets\\assets\\vendor\\font-awesome\\scss\\_path.scss"
     },
     {
-      "Id": "C:\\Users\\Elvin Qulizada\\source\\repos\\Agency\\Agency\\wwwroot\\assets\\vendor\\font-awesome\\scss\\_rotated-flipped.scss",
+      "Id": "C:\\Users\\Elvin Qulizada\\Desktop\\Exam Latest\\Agency\\Agency\\wwwroot\\assets\\vendor\\font-awesome\\scss\\_rotated-flipped.scss",
       "PackagePath": "staticwebassets\\assets\\vendor\\font-awesome\\scss\\_rotated-flipped.scss"
     },
     {
-      "Id": "C:\\Users\\Elvin Qulizada\\source\\repos\\Agency\\Agency\\wwwroot\\assets\\vendor\\font-awesome\\scss\\_screen-reader.scss",
+      "Id": "C:\\Users\\Elvin Qulizada\\Desktop\\Exam Latest\\Agency\\Agency\\wwwroot\\assets\\vendor\\font-awesome\\scss\\_screen-reader.scss",
       "PackagePath": "staticwebassets\\assets\\vendor\\font-awesome\\scss\\_screen-reader.scss"
     },
     {
-      "Id": "C:\\Users\\Elvin Qulizada\\source\\repos\\Agency\\Agency\\wwwroot\\assets\\vendor\\font-awesome\\scss\\_stacked.scss",
+      "Id": "C:\\Users\\Elvin Qulizada\\Desktop\\Exam Latest\\Agency\\Agency\\wwwroot\\assets\\vendor\\font-awesome\\scss\\_stacked.scss",
       "PackagePath": "staticwebassets\\assets\\vendor\\font-awesome\\scss\\_stacked.scss"
     },
     {
-      "Id": "C:\\Users\\Elvin Qulizada\\source\\repos\\Agency\\Agency\\wwwroot\\assets\\vendor\\font-awesome\\scss\\_variables.scss",
+      "Id": "C:\\Users\\Elvin Qulizada\\Desktop\\Exam Latest\\Agency\\Agency\\wwwroot\\assets\\vendor\\font-awesome\\scss\\_variables.scss",
       "PackagePath": "staticwebassets\\assets\\vendor\\font-awesome\\scss\\_variables.scss"
     },
     {
-      "Id": "C:\\Users\\Elvin Qulizada\\source\\repos\\Agency\\Agency\\wwwroot\\assets\\vendor\\font-awesome\\scss\\font-awesome.scss",
+      "Id": "C:\\Users\\Elvin Qulizada\\Desktop\\Exam Latest\\Agency\\Agency\\wwwroot\\assets\\vendor\\font-awesome\\scss\\font-awesome.scss",
       "PackagePath": "staticwebassets\\assets\\vendor\\font-awesome\\scss\\font-awesome.scss"
     },
     {
-      "Id": "C:\\Users\\Elvin Qulizada\\source\\repos\\Agency\\Agency\\wwwroot\\assets\\vendor\\jquery\\jquery.js",
+      "Id": "C:\\Users\\Elvin Qulizada\\Desktop\\Exam Latest\\Agency\\Agency\\wwwroot\\assets\\vendor\\jquery\\jquery.js",
       "PackagePath": "staticwebassets\\assets\\vendor\\jquery\\jquery.js"
     },
     {
-      "Id": "C:\\Users\\Elvin Qulizada\\source\\repos\\Agency\\Agency\\wwwroot\\assets\\vendor\\jquery\\jquery.min.js",
+      "Id": "C:\\Users\\Elvin Qulizada\\Desktop\\Exam Latest\\Agency\\Agency\\wwwroot\\assets\\vendor\\jquery\\jquery.min.js",
       "PackagePath": "staticwebassets\\assets\\vendor\\jquery\\jquery.min.js"
     },
     {
-      "Id": "C:\\Users\\Elvin Qulizada\\source\\repos\\Agency\\Agency\\wwwroot\\favicon.ico",
+      "Id": "C:\\Users\\Elvin Qulizada\\Desktop\\Exam Latest\\Agency\\Agency\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "C:\\Users\\Elvin Qulizada\\source\\repos\\Agency\\Agency\\wwwroot\\uploads\\portfolio\\09f697e5-6d9e-41bf-8fba-e8a4e8aac5a1escape.jpg",
+      "Id": "C:\\Users\\Elvin Qulizada\\Desktop\\Exam Latest\\Agency\\Agency\\wwwroot\\uploads\\portfolio\\09f697e5-6d9e-41bf-8fba-e8a4e8aac5a1escape.jpg",
       "PackagePath": "staticwebassets\\uploads\\portfolio\\09f697e5-6d9e-41bf-8fba-e8a4e8aac5a1escape.jpg"
     },
     {
-      "Id": "C:\\Users\\Elvin Qulizada\\source\\repos\\Agency\\Agency\\wwwroot\\uploads\\portfolio\\2e61a3ac-86e5-4ab2-bbff-3ce8a272e3abtreehouse-preview.jpg",
+      "Id": "C:\\Users\\Elvin Qulizada\\Desktop\\Exam Latest\\Agency\\Agency\\wwwroot\\uploads\\portfolio\\2e61a3ac-86e5-4ab2-bbff-3ce8a272e3abtreehouse-preview.jpg",
       "PackagePath": "staticwebassets\\uploads\\portfolio\\2e61a3ac-86e5-4ab2-bbff-3ce8a272e3abtreehouse-preview.jpg"
     },
     {
-      "Id": "C:\\Users\\Elvin Qulizada\\source\\repos\\Agency\\Agency\\wwwroot\\uploads\\portfolio\\5926260f-afb4-4981-844a-04ba8331c4f7roundicons-free.jpg",
+      "Id": "C:\\Users\\Elvin Qulizada\\Desktop\\Exam Latest\\Agency\\Agency\\wwwroot\\uploads\\portfolio\\5926260f-afb4-4981-844a-04ba8331c4f7roundicons-free.jpg",
       "PackagePath": "staticwebassets\\uploads\\portfolio\\5926260f-afb4-4981-844a-04ba8331c4f7roundicons-free.jpg"
     },
     {
-      "Id": "C:\\Users\\Elvin Qulizada\\source\\repos\\Agency\\Agency\\wwwroot\\uploads\\portfolio\\bab35fce-a745-4b69-a633-9fd8c266256eescape.jpg",
+      "Id": "C:\\Users\\Elvin Qulizada\\Desktop\\Exam Latest\\Agency\\Agency\\wwwroot\\uploads\\portfolio\\bab35fce-a745-4b69-a633-9fd8c266256eescape.jpg",
       "PackagePath": "staticwebassets\\uploads\\portfolio\\bab35fce-a745-4b69-a633-9fd8c266256eescape.jpg"
     },
     {
