@@ -3184,6 +3184,22 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\portfolio\09f697e5-6d9e-41bf-8fba-e8a4e8aac5a1escape.jpg))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\portfolio\2b7e72ff-f8f5-4207-a7c1-18c6eada653cgolden-preview.jpg))">
+      <SourceType>Package</SourceType>
+      <SourceId>Agency</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Agency</BasePath>
+      <RelativePath>uploads/portfolio/2b7e72ff-f8f5-4207-a7c1-18c6eada653cgolden-preview.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\portfolio\2b7e72ff-f8f5-4207-a7c1-18c6eada653cgolden-preview.jpg))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\portfolio\2e61a3ac-86e5-4ab2-bbff-3ce8a272e3abtreehouse-preview.jpg))">
       <SourceType>Package</SourceType>
       <SourceId>Agency</SourceId>
@@ -3200,12 +3216,12 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\portfolio\2e61a3ac-86e5-4ab2-bbff-3ce8a272e3abtreehouse-preview.jpg))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\portfolio\5926260f-afb4-4981-844a-04ba8331c4f7roundicons-free.jpg))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\portfolio\4098b3b9-f1b0-47c5-a21b-491ee4bce0dbescape.jpg))">
       <SourceType>Package</SourceType>
       <SourceId>Agency</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/Agency</BasePath>
-      <RelativePath>uploads/portfolio/5926260f-afb4-4981-844a-04ba8331c4f7roundicons-free.jpg</RelativePath>
+      <RelativePath>uploads/portfolio/4098b3b9-f1b0-47c5-a21b-491ee4bce0dbescape.jpg</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
@@ -3214,7 +3230,23 @@
       <AssetTraitValue></AssetTraitValue>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\portfolio\5926260f-afb4-4981-844a-04ba8331c4f7roundicons-free.jpg))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\portfolio\4098b3b9-f1b0-47c5-a21b-491ee4bce0dbescape.jpg))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\portfolio\4345d07d-ab2d-4ff5-941b-79e6ac026c1ctreehouse.jpg))">
+      <SourceType>Package</SourceType>
+      <SourceId>Agency</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Agency</BasePath>
+      <RelativePath>uploads/portfolio/4345d07d-ab2d-4ff5-941b-79e6ac026c1ctreehouse.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\portfolio\4345d07d-ab2d-4ff5-941b-79e6ac026c1ctreehouse.jpg))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\portfolio\bab35fce-a745-4b69-a633-9fd8c266256eescape.jpg))">
       <SourceType>Package</SourceType>
@@ -3231,6 +3263,22 @@
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\portfolio\bab35fce-a745-4b69-a633-9fd8c266256eescape.jpg))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\portfolio\ffb862c7-438e-41da-94af-ebec0e8e9773golden.jpg))">
+      <SourceType>Package</SourceType>
+      <SourceId>Agency</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Agency</BasePath>
+      <RelativePath>uploads/portfolio/ffb862c7-438e-41da-94af-ebec0e8e9773golden.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\portfolio\ffb862c7-438e-41da-94af-ebec0e8e9773golden.jpg))</OriginalItemSpec>
     </StaticWebAsset>
   </ItemGroup>
 </Project>

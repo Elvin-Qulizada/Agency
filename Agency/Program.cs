@@ -29,6 +29,7 @@ namespace Agency
             });
             builder.Services.AddScoped<AdminLayoutService>();
             builder.Services.AddScoped<HomeLayoutService>();
+            //builder.Services.AddScoped<EmailSenderService>(); real bir email girisi yazilmadan etmek olmayacaq
             var app = builder.Build();
 
             // Configure the HTTP request pipeline.

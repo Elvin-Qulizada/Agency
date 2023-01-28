@@ -28,7 +28,8 @@ namespace Agency.Areas.Manage.Controllers
             {
                 Fullname = "Elvin Qulizada",
                 UserName = "elvin",
-                Password = "elvin123"
+                Password = "elvin123",
+                Email = "elvin@gmail.com"
             };
             await _userManager.CreateAsync(user);
             await _userManager.AddPasswordAsync(user, user.Password);

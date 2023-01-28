@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "jZh+BCNuf1jXGHvUgp0uR5xJ8vtYrcbCMyQlm+IKAOc=",
+  "Hash": "FMr43CmaGgSM82kQ0d38+5bC2YXKQ5mHFcsaX3ACXkE=",
   "Source": "Agency",
   "BasePath": "_content/Agency",
   "Mode": "Default",
@@ -3417,6 +3417,23 @@
       "OriginalItemSpec": "wwwroot\\uploads\\portfolio\\09f697e5-6d9e-41bf-8fba-e8a4e8aac5a1escape.jpg"
     },
     {
+      "Identity": "C:\\Users\\Elvin Qulizada\\Desktop\\Exam Latest\\Agency\\Agency\\wwwroot\\uploads\\portfolio\\2b7e72ff-f8f5-4207-a7c1-18c6eada653cgolden-preview.jpg",
+      "SourceId": "Agency",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Elvin Qulizada\\Desktop\\Exam Latest\\Agency\\Agency\\wwwroot\\",
+      "BasePath": "_content/Agency",
+      "RelativePath": "uploads/portfolio/2b7e72ff-f8f5-4207-a7c1-18c6eada653cgolden-preview.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\portfolio\\2b7e72ff-f8f5-4207-a7c1-18c6eada653cgolden-preview.jpg"
+    },
+    {
       "Identity": "C:\\Users\\Elvin Qulizada\\Desktop\\Exam Latest\\Agency\\Agency\\wwwroot\\uploads\\portfolio\\2e61a3ac-86e5-4ab2-bbff-3ce8a272e3abtreehouse-preview.jpg",
       "SourceId": "Agency",
       "SourceType": "Discovered",
@@ -3434,12 +3451,12 @@
       "OriginalItemSpec": "wwwroot\\uploads\\portfolio\\2e61a3ac-86e5-4ab2-bbff-3ce8a272e3abtreehouse-preview.jpg"
     },
     {
-      "Identity": "C:\\Users\\Elvin Qulizada\\Desktop\\Exam Latest\\Agency\\Agency\\wwwroot\\uploads\\portfolio\\5926260f-afb4-4981-844a-04ba8331c4f7roundicons-free.jpg",
+      "Identity": "C:\\Users\\Elvin Qulizada\\Desktop\\Exam Latest\\Agency\\Agency\\wwwroot\\uploads\\portfolio\\4098b3b9-f1b0-47c5-a21b-491ee4bce0dbescape.jpg",
       "SourceId": "Agency",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Elvin Qulizada\\Desktop\\Exam Latest\\Agency\\Agency\\wwwroot\\",
       "BasePath": "_content/Agency",
-      "RelativePath": "uploads/portfolio/5926260f-afb4-4981-844a-04ba8331c4f7roundicons-free.jpg",
+      "RelativePath": "uploads/portfolio/4098b3b9-f1b0-47c5-a21b-491ee4bce0dbescape.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -3448,7 +3465,24 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\uploads\\portfolio\\5926260f-afb4-4981-844a-04ba8331c4f7roundicons-free.jpg"
+      "OriginalItemSpec": "wwwroot\\uploads\\portfolio\\4098b3b9-f1b0-47c5-a21b-491ee4bce0dbescape.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Elvin Qulizada\\Desktop\\Exam Latest\\Agency\\Agency\\wwwroot\\uploads\\portfolio\\4345d07d-ab2d-4ff5-941b-79e6ac026c1ctreehouse.jpg",
+      "SourceId": "Agency",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Elvin Qulizada\\Desktop\\Exam Latest\\Agency\\Agency\\wwwroot\\",
+      "BasePath": "_content/Agency",
+      "RelativePath": "uploads/portfolio/4345d07d-ab2d-4ff5-941b-79e6ac026c1ctreehouse.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\portfolio\\4345d07d-ab2d-4ff5-941b-79e6ac026c1ctreehouse.jpg"
     },
     {
       "Identity": "C:\\Users\\Elvin Qulizada\\Desktop\\Exam Latest\\Agency\\Agency\\wwwroot\\uploads\\portfolio\\bab35fce-a745-4b69-a633-9fd8c266256eescape.jpg",
@@ -3466,6 +3500,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\uploads\\portfolio\\bab35fce-a745-4b69-a633-9fd8c266256eescape.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Elvin Qulizada\\Desktop\\Exam Latest\\Agency\\Agency\\wwwroot\\uploads\\portfolio\\ffb862c7-438e-41da-94af-ebec0e8e9773golden.jpg",
+      "SourceId": "Agency",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Elvin Qulizada\\Desktop\\Exam Latest\\Agency\\Agency\\wwwroot\\",
+      "BasePath": "_content/Agency",
+      "RelativePath": "uploads/portfolio/ffb862c7-438e-41da-94af-ebec0e8e9773golden.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\portfolio\\ffb862c7-438e-41da-94af-ebec0e8e9773golden.jpg"
     }
   ]
 }

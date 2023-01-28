@@ -797,16 +797,28 @@
       "PackagePath": "staticwebassets\\uploads\\portfolio\\09f697e5-6d9e-41bf-8fba-e8a4e8aac5a1escape.jpg"
     },
     {
+      "Id": "C:\\Users\\Elvin Qulizada\\Desktop\\Exam Latest\\Agency\\Agency\\wwwroot\\uploads\\portfolio\\2b7e72ff-f8f5-4207-a7c1-18c6eada653cgolden-preview.jpg",
+      "PackagePath": "staticwebassets\\uploads\\portfolio\\2b7e72ff-f8f5-4207-a7c1-18c6eada653cgolden-preview.jpg"
+    },
+    {
       "Id": "C:\\Users\\Elvin Qulizada\\Desktop\\Exam Latest\\Agency\\Agency\\wwwroot\\uploads\\portfolio\\2e61a3ac-86e5-4ab2-bbff-3ce8a272e3abtreehouse-preview.jpg",
       "PackagePath": "staticwebassets\\uploads\\portfolio\\2e61a3ac-86e5-4ab2-bbff-3ce8a272e3abtreehouse-preview.jpg"
     },
     {
-      "Id": "C:\\Users\\Elvin Qulizada\\Desktop\\Exam Latest\\Agency\\Agency\\wwwroot\\uploads\\portfolio\\5926260f-afb4-4981-844a-04ba8331c4f7roundicons-free.jpg",
-      "PackagePath": "staticwebassets\\uploads\\portfolio\\5926260f-afb4-4981-844a-04ba8331c4f7roundicons-free.jpg"
+      "Id": "C:\\Users\\Elvin Qulizada\\Desktop\\Exam Latest\\Agency\\Agency\\wwwroot\\uploads\\portfolio\\4098b3b9-f1b0-47c5-a21b-491ee4bce0dbescape.jpg",
+      "PackagePath": "staticwebassets\\uploads\\portfolio\\4098b3b9-f1b0-47c5-a21b-491ee4bce0dbescape.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Elvin Qulizada\\Desktop\\Exam Latest\\Agency\\Agency\\wwwroot\\uploads\\portfolio\\4345d07d-ab2d-4ff5-941b-79e6ac026c1ctreehouse.jpg",
+      "PackagePath": "staticwebassets\\uploads\\portfolio\\4345d07d-ab2d-4ff5-941b-79e6ac026c1ctreehouse.jpg"
     },
     {
       "Id": "C:\\Users\\Elvin Qulizada\\Desktop\\Exam Latest\\Agency\\Agency\\wwwroot\\uploads\\portfolio\\bab35fce-a745-4b69-a633-9fd8c266256eescape.jpg",
       "PackagePath": "staticwebassets\\uploads\\portfolio\\bab35fce-a745-4b69-a633-9fd8c266256eescape.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Elvin Qulizada\\Desktop\\Exam Latest\\Agency\\Agency\\wwwroot\\uploads\\portfolio\\ffb862c7-438e-41da-94af-ebec0e8e9773golden.jpg",
+      "PackagePath": "staticwebassets\\uploads\\portfolio\\ffb862c7-438e-41da-94af-ebec0e8e9773golden.jpg"
     },
     {
       "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Agency.Microsoft.AspNetCore.StaticWebAssets.props",
