@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "C95huln3LMseOroluHxfbQIV3dgXrr/+PFlt6+ChpUk=",
+  "Hash": "zaxSG4/ZvT/xZUH/sF1S44TZ5/kvHeeqRfV/Acv3OVI=",
   "Source": "Agency",
   "BasePath": "_content/Agency",
   "Mode": "Default",
@@ -3381,6 +3381,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\Elvin Qulizada\\source\\repos\\Agency\\Agency\\wwwroot\\uploads\\portfolio\\5926260f-afb4-4981-844a-04ba8331c4f7roundicons-free.jpg",
+      "SourceId": "Agency",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Elvin Qulizada\\source\\repos\\Agency\\Agency\\wwwroot\\",
+      "BasePath": "_content/Agency",
+      "RelativePath": "uploads/portfolio/5926260f-afb4-4981-844a-04ba8331c4f7roundicons-free.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\portfolio\\5926260f-afb4-4981-844a-04ba8331c4f7roundicons-free.jpg"
     }
   ]
 }

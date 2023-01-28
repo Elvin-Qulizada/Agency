@@ -1,4 +1,6 @@
 using Agency.DAL;
+using Agency.Models;
+using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 
 namespace Agency
@@ -11,6 +13,14 @@ namespace Agency
 
             // Add services to the container.
             builder.Services.AddControllersWithViews();
+            builder.Services.AddIdentity<AppUser, IdentityRole>(opt =>
+            {
+                opt.Password.RequireNonAlphanumeric = false;
+                opt.Password.RequiredLength = 8;
+                opt.Password.RequireUppercase = false;
+                opt.Password.RequireLowercase = false;
+                opt.User.RequireUniqueEmail= false;
+            }).AddEntityFrameworkStores<AppDbContext>().AddDefaultTokenProviders();
             builder.Services.AddDbContext<AppDbContext>(opt =>
             {
                 opt.UseSqlServer(builder.Configuration.GetConnectionString("Default"));
@@ -33,7 +43,7 @@ namespace Agency
             app.UseAuthorization();
             app.MapControllerRoute(
             name: "areas",
-            pattern: "{area:exists}/{controller=Dashboard}/{action=Index}/{id?}"
+            pattern: "{area:exists}/{controller=account}/{action=login}/{id?}"
           );
             app.MapControllerRoute(
                 name: "default",

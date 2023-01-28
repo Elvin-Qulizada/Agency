@@ -10,10 +10,10 @@ namespace Agency.Models
         [MaxLength(50)]
         public string Title { get; set; }
         [MaxLength(60)]
-        public string ImageUrl{ get; set; }
+        public string? ImageUrl{ get; set; }
         [MaxLength(150)]
         public string Description { get; set; }
-        public Category Category { get; set; }
+        public Category? Category { get; set; }
         [NotMapped]
         public IFormFile? Image { get; set; }
     }
