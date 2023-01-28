@@ -1,6 +1,7 @@
 ﻿@inject Agency.Services.HomeLayoutService service
 @{
     List<Setting> settings = service.GetSettings();
+    AppUser appUser = await service.GetUser();
 }
 <!DOCTYPE html>
 <html lang="en">
@@ -71,6 +72,19 @@
                     <li>
                         <a class="page-scroll" href="#contact">Contact</a>
                     </li>
+                    @if(appUser is not null)
+                    {
+                    <li>
+                        <a class="page-scroll" href="#">@appUser.Fullname</a>
+                            <a class="page-scroll" asp-action="logout" asp-controller="account">Logout</a>
+                    </li>
+                    }
+                    else{
+                        <li>
+                            <a class="page-scroll"asp-action="login" asp-controller="account">Login</a>
+                            <a class="page-scroll"asp-action="register" asp-controller="account">Register</a>
+                        </li>
+                    }
                 </ul>
             </div>
             <!-- /.navbar-collapse -->

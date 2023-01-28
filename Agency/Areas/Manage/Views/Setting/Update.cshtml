@@ -1,0 +1,9 @@
+﻿@model Setting
+<div class="container">
+    <form method="post">
+        <label asp-for="Value">@Model.Key</label>
+        <input asp-for="Value" class="form-control" placeholder="Enter @(Model.Key)">
+        <span asp-validation-for="Value" class="form-text text-danger"></span>
+        <button type="submit" class="btn btn-primary">Update</button>
+    </form>
+</div>

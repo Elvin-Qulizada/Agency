@@ -7,7 +7,7 @@ using System.Data;
 namespace Agency.Areas.Manage.Controllers
 {
     [Area("Manage")]
-    [Authorize(Roles = "SuperAdmin,Admin")]
+    [Authorize(Roles = "SuperAdmin,Admin")]//User yaradilmamishdan qabaq commente alinmalidir
     public class DashboardController : Controller
     {
         private readonly UserManager<AppUser> _userManager;

@@ -6,7 +6,7 @@ namespace Agency.Models
     {
         public int Id { get; set; }
         [MaxLength(20)]
-        public string Key { get; set; }
+        public string? Key { get; set; }
         [MaxLength(100)]
         public string Value { get; set; }
     }

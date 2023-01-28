@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "C5hAhHqpy+vQKSbwthJvOX/6AZm8O2e6Jf4CnvlH2Qw=",
+  "Hash": "yABQX3M5pQ2Lcn0NGyoQghahE0NAmPr0j1UjPSxjpWo=",
   "Source": "Agency",
   "BasePath": "_content/Agency",
   "Mode": "Default",
@@ -3381,6 +3381,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\Elvin Qulizada\\source\\repos\\Agency\\Agency\\wwwroot\\uploads\\portfolio\\09f697e5-6d9e-41bf-8fba-e8a4e8aac5a1escape.jpg",
+      "SourceId": "Agency",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Elvin Qulizada\\source\\repos\\Agency\\Agency\\wwwroot\\",
+      "BasePath": "_content/Agency",
+      "RelativePath": "uploads/portfolio/09f697e5-6d9e-41bf-8fba-e8a4e8aac5a1escape.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\portfolio\\09f697e5-6d9e-41bf-8fba-e8a4e8aac5a1escape.jpg"
     },
     {
       "Identity": "C:\\Users\\Elvin Qulizada\\source\\repos\\Agency\\Agency\\wwwroot\\uploads\\portfolio\\2e61a3ac-86e5-4ab2-bbff-3ce8a272e3abtreehouse-preview.jpg",
